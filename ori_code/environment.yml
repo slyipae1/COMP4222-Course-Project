@@ -200,4 +200,4 @@ dependencies:
       - umap-learn==0.5.5
       - werkzeug==3.0.1
       - datasets==2.16.1
-prefix: /home/scur1002/miniconda3/envs/ir2
+prefix: /home/shebd/anaconda3/envs/ir2
