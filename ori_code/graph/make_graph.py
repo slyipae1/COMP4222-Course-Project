@@ -10,6 +10,8 @@ from utils_graph import *
 from os.path import join as path_join
 
 from torch_geometric.utils import to_undirected
+import os
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(formatter_class=argparse.ArgumentDefaultsHelpFormatter)
@@ -30,10 +32,12 @@ if __name__ == "__main__":
     set_seed(42)
 
     # use cuda if cuda is available
+    # os.environ['CUDA_VISIBLE_DEVICES'] = '0'
     if args.use_cuda:
         device = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu")
     else:
         device = torch.device("cpu")
+    print("Device:", device)    
 
     # load the data from root folder
     full_dataset = SentenceLabelDataset(args.path)

@@ -31,7 +31,9 @@ class SentenceLabelDataset(Dataset):
             csv_file (str): Path to the CSV file containing sentences and labels.
             limit (int, optional): Number of samples to use from the dataset (for debugging or limiting dataset size).
         """
-        self.q_data = pd.read_json(path + 'sampled_data.json', lines=True)
+        json_data = pd.read_json(path + 'sampled_data.json', lines=True)
+        self.q_data = json_data[:int(len(json_data)*0.6)]
+        
         self.nc_data = pd.read_csv(path + 'generated/no_context.csv')
         self.wc_data = pd.read_csv(path + 'generated/with_context.csv')
 

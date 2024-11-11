@@ -50,7 +50,7 @@ if __name__ == "__main__":
 
     # Load pre-trained BERT model and tokenizer
     tokenizer = AutoTokenizer.from_pretrained(args.model_name)
-    model = AutoModelForSequenceClassification.from_pretrained(args.model_name)
+    model = AutoModelForSequenceClassification.from_pretrained(args.model_name, output_hidden_states=True)
     model.to(device)
 
     print("Calculating node features...")

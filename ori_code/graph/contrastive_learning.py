@@ -6,6 +6,10 @@ from os.path import join as path_join
 from collections import defaultdict
 import utils_graph
 
+output_txt = "../putput.txt"
+with open(output_txt, "w") as f:
+    f.write("")
+
 class SimCLR(nn.Module):
     """
     Based on code from SupContrast by the original authors.
@@ -136,6 +140,11 @@ if __name__ == "__main__":
     print(args)
     print("-" * 120)
     print("\n" * 2)
+    with open(output_txt, "a") as f:
+        f.write("STARTING...  setup:")
+        f.write(str(args))
+        f.write("-" * 120)
+        f.write("\n" * 2)
 
     # some paramaters
     if args.use_cuda:
@@ -151,6 +160,11 @@ if __name__ == "__main__":
     val_dataset = SimpleDataset(graph.x[graph.val_idx], graph.y[graph.val_idx])
     print("Train dataset size:", len(train_dataset))
     print("Validate dataset size:", len(val_dataset))
+    with open(output_txt, "a") as f:
+        f.write("Train dataset size:")
+        f.write(str(len(train_dataset)))
+        f.write("Validate dataset size:")
+        f.write(str(len(val_dataset)))
     
     train_loader = DataLoader(train_dataset, shuffle=True, batch_size=args.batch_size, drop_last=True)
     val_loader = DataLoader(val_dataset, shuffle=True, batch_size=args.batch_size, drop_last=True)
@@ -185,6 +199,8 @@ if __name__ == "__main__":
     
     config = f"act_{activation._get_name()}_opt_AdamW_lr_{lr}_bs_{256}_t_{temp}"
     print(f"Configuration:\n\t{config}")
+    with open(output_txt, "a") as f:
+        f.write(f"Configuration:\n\t{config}")
 
     for i in range(args.epochs):
         train_loss, train_logs = train_loop(train_loader, model, loss_func, optimizer, lr_scheduler, train_logs, device)
@@ -199,6 +215,15 @@ if __name__ == "__main__":
             print(f"\t{t_key}: {t}")
             print(f"\t{v_key}: {v}")
         print()
+        with open(output_txt, "a") as f:
+            f.write(f"Epoch {i}\n\ttrain loss: {train_loss}\n\tval loss: {val_loss}")
+            for (t_key, t_value), (v_key, v_value) in zip(train_logs.items(), val_logs.items()):
+                t = torch.mean(torch.tensor(t_value[-n_train_batches:]))
+                v = torch.mean(torch.tensor(v_value[-n_val_batches:]))
+                f.write("\n")
+                f.write(f"\t{t_key}: {t}")
+                f.write(f"\t{v_key}: {v}")
+            f.write("\n")
     
 
     if args.save_model:
