@@ -78,15 +78,15 @@ def get_embeddings_DeBERTa(model, tokenizer, dataloader, device):
     for i, (_, inputs, _) in enumerate(dataloader):
         # manually add the CLS token
         inputs = ["[CLS] " + s for mult in inputs for s in mult]
-        encoded_inputs = tokenizer(inputs, truncation=True, return_tensors="pt")
+        encoded_inputs = tokenizer(inputs, padding=True, return_tensors="pt")
 
 
         # forward pass through the model to get embeddings
         with torch.no_grad():
-            output = model(input["input_ids"].to(device))
+            output = model(encoded_inputs["input_ids"].to(device))
 
         # extract the CLS embedding
-        cls_embedding = output.last_hidden_state[:, 0, :]
+        cls_embedding = output.hidden_states[-1][:, 0, :]
         embeddings.append(cls_embedding)
 
     return torch.concat(embeddings)

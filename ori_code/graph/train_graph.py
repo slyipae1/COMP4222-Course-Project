@@ -8,6 +8,10 @@ import utils_graph
 from os.path import join as path_join
 torch.set_printoptions(profile="full")
 
+output_txt = "../output.txt"
+with open(output_txt, "w") as f:
+    f.write("")
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(formatter_class=argparse.ArgumentDefaultsHelpFormatter)
     # command line args for specifying the situation
@@ -35,6 +39,12 @@ if __name__ == "__main__":
     print(args)
     print("-" * 120)
     print("\n" * 2)
+    with open(output_txt, "a") as f:
+        f.write("STARTING...  setup:\n")
+        f.write(str(args))
+        f.write("\n")
+        f.write("-" * 120)
+        f.write("\n" * 2)
 
     # some paramaters
     if args.use_cuda:
@@ -49,6 +59,8 @@ if __name__ == "__main__":
     # removing isolated nodes
     isolated = (remove_isolated_nodes(graph["edge_index"])[2] == False).sum(dim=0).item()
     print(f"Number of isolated nodes = {isolated}\n")
+    with open(output_txt, "a") as f:
+        f.write(f"Number of isolated nodes = {isolated}\n")
 
     ######## DATA LEAKAGE PREVENTION WITH SPECIFIC EDGE ATTRIBUTES ########
     train_idx = graph.train_idx # [t, ]
@@ -156,6 +168,14 @@ if __name__ == "__main__":
         print(f"\ttrain macro precision: {train_macro_precision.item()}\n\tval macro precision: {val_macro_precision.item()}")
         # Print train and valuation binary accuracy
         print(f"\ttrain binary recall: {train_binary_recall.item()}\n\tval binary recall: {val_binary_recall.item()}")
+
+        with open(output_txt, "a") as f:
+            f.write(f"Epoch: {i}\n\ttrain loss: {train_loss}\n\tval loss: {val_loss}\n")
+            f.write(f"\ttrain confusion matrix:\n\t{train_conf.long()}\n\tval confusion matrix:\n\t{val_conf.long()}\n")
+            f.write(f"\ttrain accuracy: {train_acc.item()}\n\tval accuracy: {val_acc.item()}\n")
+            f.write(f"\ttrain macro recall: {train_macro_recall.item()}\n\tval macro recall: {val_macro_recall.item()}\n")
+            f.write(f"\ttrain macro precision: {train_macro_precision.item()}\n\tval macro precision: {val_macro_precision.item()}\n")
+            f.write(f"\ttrain binary recall: {train_binary_recall.item()}\n\tval binary recall: {val_binary_recall.item()}\n")
 
         if val_macro_recall.item() > best_recall:
             best_recall = val_macro_recall.item() 
