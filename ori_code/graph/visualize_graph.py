@@ -15,6 +15,8 @@ if __name__ == "__main__":
                         help="Path to the data folder")
     parser.add_argument("--output_dir", type=str, default="images/",
                         help="Path to save plot to")
+    parser.add_argument("--weights_folder", type=str, default="../weights/",
+                        help="Path to the weights folder")
 
     args = parser.parse_args()
 
@@ -38,8 +40,10 @@ if __name__ == "__main__":
     print(f"Number of isolated nodes = {isolated}\n")
 
     embedder_file = f"embedder_act_ReLU_opt_AdamW_lr_0.0001_bs_256_t_0.07_998.pt"
+    embedder_file = f"embedder_act_ReLU_opt_AdamW_lr_0.0001_bs_256_t_0.07.pt"
     embedder = torch.nn.Sequential(*[torch.nn.Linear(768, 768), torch.nn.ReLU(), torch.nn.Linear(768, 128)])
-    embedder.load_state_dict(torch.load(path_join("../weights", embedder_file), map_location=device)["state_dict"])
+    weights_folder = args.weights_folder
+    embedder.load_state_dict(torch.load(path_join(weights_folder, embedder_file), map_location=device)["state_dict"])
     embedder.to(device)
     embeddings = embedder(graph.x)
     

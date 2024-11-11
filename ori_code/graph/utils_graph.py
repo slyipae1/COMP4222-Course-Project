@@ -52,6 +52,46 @@ def get_embeddings(model, tokenizer, dataloader, device):
     return torch.concat(embeddings)
 
 
+def get_embeddings_DeBERTa(model, tokenizer, dataloader, device):
+    """
+    #########################################
+    @ YIP Sau Lai
+    varient of get_embeddings() for DeBERTa model 
+    #########################################
+    """
+
+    """
+    Given a model and tokenizer, maps all the sentences
+    in the dataset to the given model embedding.
+
+    Args:
+    - model (torch.nn.Module): Model for generating embeddings.
+    - tokenizer (object): Tokenizer object.
+    - dataloader (torch.utils.data.DataLoader): DataLoader object.
+    - device (torch.device): Device where the model and data reside.
+
+    Returns:
+    - torch.Tensor: Concatenated embeddings of the sentences.
+    """
+
+    embeddings = []
+    for i, (_, inputs, _) in enumerate(dataloader):
+        # manually add the CLS token
+        inputs = ["[CLS] " + s for mult in inputs for s in mult]
+        encoded_inputs = tokenizer(inputs, truncation=True, return_tensors="pt")
+
+
+        # forward pass through the model to get embeddings
+        with torch.no_grad():
+            output = model(input["input_ids"].to(device))
+
+        # extract the CLS embedding
+        cls_embedding = output.last_hidden_state[:, 0, :]
+        embeddings.append(cls_embedding)
+
+    return torch.concat(embeddings)
+
+
 def get_labels(dataloader):
     """
     Collects all the labels of the dataloader.
