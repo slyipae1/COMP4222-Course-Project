@@ -1,0 +1,13 @@
+Device: cuda
+Calculating node features...
+Node features shape: torch.Size([13200, 768]) 
+
+Getting labels...
+Labels shape: torch.Size([13200, 3]) 
+
+Calculating edges...
+Edge index shape: torch.Size([2, 9331714]) 
+
+Data is directed: False
+Final dataloader: Data(x=[13200, 768], edge_index=[2, 18663428], y=[13200, 3], train_idx=[9240], val_idx=[1980], test_idx=[1980])
+Saved graph and distances in  /project/smartlab2021/shebd/FYP2024/slyipae/MODELs/others/4222/bert_60per_t0.85/data/

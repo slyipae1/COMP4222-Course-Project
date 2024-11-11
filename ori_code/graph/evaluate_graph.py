@@ -20,10 +20,16 @@ if __name__ == "__main__":
     parser.add_argument("--mode", type=str, default="val",
                         choices=["train", "val", "test"],
                         help="Mode for evaluation")
+    parser.add_argument("--output_txt", type=str, default="../evaluate_graph.txt",
+                        help="Path to save the output txt file")
     args = parser.parse_args()
 
     # for reproducibility
     utils_graph.set_seed(42)
+
+    output_txt = args.output_txt
+    with open(output_txt, "w") as f:
+        f.write("")
     
     print("STARTING...  setup:")
     print(args)
@@ -155,4 +161,30 @@ if __name__ == "__main__":
     print(f"One frame agreement: {ofa}")
     # Print valuation macro AUPRC
     print(f"Macro AUPRC: {m_AUPRC.item()}")
+
+    with open(output_txt, "a") as f:
+        f.write("Loss: ")
+        f.write(str(loss))
+        f.write("\n")
+        f.write("Confusion matrix:")
+        f.write(str(conf_mat.long()))
+        f.write("\n")
+        f.write("Accuracy: ")
+        f.write(str(accuracy.item()))
+        f.write("\n")
+        f.write("Macro recall: ")
+        f.write(str(m_recall.item()))
+        f.write("\n")
+        f.write("Macro precision: ")
+        f.write(str(m_precision.item()))
+        f.write("\n")
+        f.write("Binary recall: ")
+        f.write(str(b_recall.item()))
+        f.write("\n")
+        f.write("One frame agreement: ")
+        f.write(str(ofa))
+        f.write("\n")
+        f.write("Macro AUPRC: ")
+        f.write(str(m_AUPRC.item()))
+        f.write("\n")
  

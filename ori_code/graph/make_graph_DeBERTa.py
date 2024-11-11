@@ -18,6 +18,7 @@ from os.path import join as path_join
 
 from torch_geometric.utils import to_undirected
 
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(formatter_class=argparse.ArgumentDefaultsHelpFormatter)
     parser.add_argument("--use-cuda", action="store_true", default=False,
@@ -31,7 +32,13 @@ if __name__ == "__main__":
     parser.add_argument("--distances", action="store_true", default=False,
                         help="Use pre-calculated distances matrix")
     parser.add_argument("--num-workers", type=int, default=2)
+    parser.add_argument("--output_txt", type=str, default="../make_graph_DeBERTa.txt",
+                        help="Path to save the output txt file")
     args = parser.parse_args()
+
+    output_txt = args.output_txt
+    with open(output_txt, "w") as f:
+        f.write("")
 
     # for reproducibility
     set_seed(42)
@@ -56,10 +63,18 @@ if __name__ == "__main__":
     print("Calculating node features...")
     node_features = get_embeddings_DeBERTa(model, tokenizer, dataloader, device)
     print("Node features shape:", node_features.shape, "\n")
+    with open(output_txt, "a") as f:
+        f.write("Node features shape:")
+        f.write(str(node_features.shape))
+        f.write("\n")
 
     print("Getting labels...")
     labels = get_labels(dataloader).to(device)
     print("Labels shape:", labels.shape, "\n")
+    with open(output_txt, "a") as f:
+        f.write("Labels shape:")
+        f.write(str(labels.shape))
+        f.write("\n")
 
     # if pre-calculated distances; use those
     if args.distances:
@@ -71,6 +86,10 @@ if __name__ == "__main__":
     distances, edge_index = get_edge_index(node_features, distances=distances, threshold=args.threshold)
     edge_index = edge_index.t().contiguous().to(device)
     print("Edge index shape:", edge_index.shape, "\n")
+    with open(output_txt, "a") as f:
+        f.write("Edge index shape:")
+        f.write(str(edge_index.shape))
+        f.write("\n")
 
     # all possible indices
     idx = np.arange(len(node_features))
@@ -103,6 +122,17 @@ if __name__ == "__main__":
 
     print("Final dataloader:", data)
     print("Saved graph and distances in ", args.path)
+
+    with open(output_txt, "a") as f:
+        f.write("Data is directed:")
+        f.write(str(data.is_directed()))
+        f.write("\n")
+        f.write("Final dataloader:")
+        f.write(str(data))
+        f.write("\n")
+        f.write("Saved graph and distances in ")
+        f.write(str(args.path))
+        f.write("\n")   
 
     torch.save(data, path_join(args.path, "graph.pt"))
     torch.save(distances, path_join(args.path, "distances.pt"))

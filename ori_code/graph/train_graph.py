@@ -8,9 +8,6 @@ import utils_graph
 from os.path import join as path_join
 torch.set_printoptions(profile="full")
 
-output_txt = "../output.txt"
-with open(output_txt, "w") as f:
-    f.write("")
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(formatter_class=argparse.ArgumentDefaultsHelpFormatter)
@@ -30,7 +27,13 @@ if __name__ == "__main__":
                         help="Learning rate for the optimizer")
     parser.add_argument("--save-model", action="store_true", default=False,
                         help="Whether to save best model weights")
+    parser.add_argument("--output_txt", type=str, default="../train_graph.txt",
+                        help="Path to save the output txt file")
     args = parser.parse_args()
+
+    output_txt = args.output_txt
+    with open(output_txt, "w") as f:
+        f.write("")
 
     # for reproducibility
     utils_graph.set_seed(42)

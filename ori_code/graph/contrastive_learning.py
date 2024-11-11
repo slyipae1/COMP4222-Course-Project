@@ -6,9 +6,7 @@ from os.path import join as path_join
 from collections import defaultdict
 import utils_graph
 
-output_txt = "../putput.txt"
-with open(output_txt, "w") as f:
-    f.write("")
+
 
 class SimCLR(nn.Module):
     """
@@ -131,7 +129,13 @@ if __name__ == "__main__":
                         help="Batch size used during training and evaluating")
     parser.add_argument("--save-model", action="store_true", default=False,
                         help="Whether to save model weights")
+    parser.add_argument("--output_txt", type=str, default="../contrastive_learning.txt",
+                        help="Path to save the output txt file")
     args = parser.parse_args()
+
+    output_txt = args.output_txt
+    with open(output_txt, "w") as f:
+        f.write("")
 
     # for reproducibility
     utils_graph.set_seed(42)
