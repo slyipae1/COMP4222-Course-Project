@@ -1,4 +1,4 @@
-# COMP4222 Course project: Understanding Hallucinations in LLMs: A Graph-Based Reproduction Study
+# Understanding Hallucinations in LLMs: A Graph-Based Reproduction Study (COMP4222 Course project)
 
 
 

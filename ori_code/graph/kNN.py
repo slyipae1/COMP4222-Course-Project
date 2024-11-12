@@ -22,15 +22,28 @@ if __name__ == "__main__":
                         help="Use train and validation dataset")
     parser.add_argument("--full", action="store_true", default=False,
                         help="Use train and validation dataset and test on train")
+    parser.add_argument("--output_txt", type=str, default="../kNN.txt",
+                        help="Path to save the output txt file")
     args = parser.parse_args()
 
     # for reproducibility
     utils_graph.set_seed(42)
 
+    output_txt = args.output_txt
+    with open(output_txt, "w") as f:
+        f.write("")
+
+
     print("STARTING...  setup:")
     print(args)
     print("-" * 120)
     print("\n" * 2)
+    with open(output_txt, "a") as f:
+        f.write("STARTING...  setup:\n")
+        f.write(str(args))
+        f.write("\n")
+        f.write("-" * 120)
+        f.write("\n\n")
 
     # some paramaters
     if args.use_cuda:
@@ -45,6 +58,8 @@ if __name__ == "__main__":
     # removing isolated nodes
     isolated = (remove_isolated_nodes(graph["edge_index"])[2] == False).sum(dim=0).item()
     print(f"Number of isolated nodes = {isolated}\n")
+    with open(output_txt, "a") as f:
+        f.write(f"Number of isolated nodes = {isolated}\n")
 
     # define model
     in_channels = graph.num_features
@@ -134,4 +149,14 @@ if __name__ == "__main__":
     print(f"One frame agreement: {ofa}")
     # Print valuation macro AUPRC
     print(f"Macro AUPRC: {m_AUPRC.item()}")
+
+    with open(output_txt, "a") as f:
+        f.write(f"Confusion matrix:\n\t{conf_mat.long()}\n")
+        f.write(f"Accuracy: {accuracy.item()}\n")
+        f.write(f"Macro recall: {m_recall.item()}\n")
+        f.write(f"Macro precision: {m_precision.item()}\n")
+        f.write(f"Binary recall: {b_recall.item()}\n")
+        f.write(f"One frame agreement: {ofa}\n")
+        f.write(f"Macro AUPRC: {m_AUPRC.item()}\n")
+        f.write("\n")
  
