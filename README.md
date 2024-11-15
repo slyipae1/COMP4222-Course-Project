@@ -6,10 +6,10 @@
 
 
 ## group members & Task distibution:
-    + YIP Sau Lai: conduct enperiments on similarity threshold and embedding model
-        + replace BERT with DeBERTa: pipeline/grapg/make_graph_DeBERTa.py
-        + for each embedding model, used thresholds: 0.60, 0.65, 0.70, 0.75, 0.80, 0.85, 0.90, 0.95
-        + result: threshold&embed.tar.gz
++ YIP Sau Lai: conduct enperiments on similarity threshold and embedding model
+    + replace BERT with DeBERTa: pipeline/grapg/make_graph_DeBERTa.py
+    + for each embedding model, used thresholds: 0.60, 0.65, 0.70, 0.75, 0.80, 0.85, 0.90, 0.95
+    + result: threshold&embed.tar.gz
 
 ## References
 
