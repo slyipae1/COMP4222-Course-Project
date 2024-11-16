@@ -53,8 +53,8 @@ if __name__ == "__main__":
                         help="Use context in prompts")
     parser.add_argument("--seed", type=int, default=42,
                         help="Seed for reproducibility")
-    parser.add_argument("--llm", type=str, default="llama2")
-    parser.add_argument("--model_path", type=str, default="pretrained/llama2-13b")
+    parser.add_argument("--llm", type=str, default="qwen2.5")
+    parser.add_argument("--model_path", type=str, default="Qwen/Qwen2.5-14B-Instruct")
     args = parser.parse_args()
 
     # Use cuda if cuda is available

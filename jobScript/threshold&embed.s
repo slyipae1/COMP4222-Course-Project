@@ -2,11 +2,11 @@
 
 ########################################################################################
 
-superPath='/4222'
-BERTpath="MODELs/bert-base-uncased"
-DeBERTapath="MODELs/DeBERTa-v3-base-mnli-fever-anli"
+superPath='/reslut/threshold&embed'
+BERTpath="google-bert/bert-base-uncased"
+DeBERTapath="MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli"
 
-cd COMP4222-Course-Project/ori_code/graph
+cd COMP4222-Course-Project/pipeline/graph
 
 ############################
 # bert 60% 0.60

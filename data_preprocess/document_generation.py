@@ -60,8 +60,8 @@ if __name__ == "__main__":
     torch.manual_seed(args.seed)  # seed the generation
     
     # openassistant pre-trained model and tokenizer
-    tokenizer = AutoTokenizer.from_pretrained("/project/smartlab2021/shebd/FYP2024/slyipae/MODELs/llama2-13b-orca-8k-3319")
-    model = AutoModelForCausalLM.from_pretrained("/project/smartlab2021/shebd/FYP2024/slyipae/MODELs/llama2-13b-orca-8k-3319", 
+    tokenizer = AutoTokenizer.from_pretrained("OpenAssistant/llama2-13b-orca-8k-3319")
+    model = AutoModelForCausalLM.from_pretrained("OpenAssistant/llama2-13b-orca-8k-3319", 
                                                  torch_dtype=torch.float16, low_cpu_mem_usage=True)
     model.to(device)
 
