@@ -20,7 +20,7 @@
     + result: result/SciQ_result
 
 ## Reproduction Guidance
-+ threshold&embed
++ similarity threshold & embedding model
     + create result folders with corresponding name under: result/threshold&embed, copy "data" folder from pipeline/data to each result folder, and create "weights" and "images" folder in each result folder.
     + run script: jobScript/threshold&embed.s
 
