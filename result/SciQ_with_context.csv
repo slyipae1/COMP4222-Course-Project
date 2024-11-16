@@ -1,0 +1,2001 @@
+qid,ans,label
+0,Inductive reasoning,2
+0,Deductive reasoning,0
+0,Descriptive science,0
+0,Hypothesis-based science,0
+0,Brain studie,0
+1,Air pollution causes acid rain.,2
+1,Acid rain is caused by volcanic eruptions.,0
+1,Acid rain is a natural phenomenon caused by the Earth's atmosphere.,0
+1,Acid rain is a result of the burning of fossil fuels.,0
+1,Acid rain is caused by the release of sulfur dioxide from volcanoes.,0
+2,Algae,2
+2,Bacteria,0
+2,Fungi,0
+2,Protozoa,0
+2,Zooplankton,0
+3,Trans fat is manufactured and added to foods to preserve freshness.,2
+3,Artificial sweeteners are manufactured and added to foods to preserve freshness.,0
+3,Artificial flavors are manufactured and added to foods to preserve freshness.,0
+3,Artificial colors are manufactured and added to foods to preserve freshness.,0
+3,Artificial preservatives are manufactured and added to foods to preserve freshness.,0
+4,All living organisms must have the ability to reproduce.,2
+4,All living organisms must have the ability to create offspring.,0
+4,All living organisms must have the ability to create new species.,0
+4,All living organisms must have the ability to create new life forms.,0
+4,All living organisms must have the ability to create new life forms through asexual reproduction.,0
+5,Hydrostatic pressure,2
+5,Blood pressure,0
+5,Interstitial fluid pressure,0
+5,Capillary pressure,0
+5,Venous pressure,0
+6,"Nucleotides are composed of a phosphate group, a sugar, and one of five different nitrogenous bases.",2
+6,"Nucleotides are composed of a phosphate group, a sugar, and one of four different nitrogenous bases.",0
+6,"Nucleotides are composed of a phosphate group, a sugar, and one of six different nitrogenous bases.",0
+6,"Nucleotides are composed of a phosphate group, a sugar, and one of three different nitrogenous bases.",0
+6,"Nucleotides are composed of a phosphate group, a sugar, and one of two different nitrogenous bases.",0
+7,Skin resistance is lowered when salts go into ion form.,2
+7,Skin resistance is increased when salts go into ion form.,0
+7,The interior of the body has a higher resistance when salts go into ion form.,0
+7,Skin resistance is not affected by the ionization of salts.,0
+7,Skin resistance remains the same when salts go into ion form.,0
+8,"The term used to describe the total spread of values in a sample is ""range.""",2
+8,"The term used to describe the total spread of values in a sample is ""mean.""",0
+8,"The term used to describe the total spread of values in a sample is ""standard deviation.""",0
+8,"The term used to describe the total spread of values in a sample is ""median.""",0
+8,"The term used to describe the total spread of values in a sample is ""interquartile range.""",0
+9,Point mutation,2
+9,Frameshift mutation,0
+9,Substitution mutation,0
+9,Translocation mutation,0
+9,Inversion mutation,0
+10,Latin,2
+10,Greek,0
+10,Arabic,0
+10,Chinese,0
+10,Russian,0
+11,Saturated fatty acids and unsaturated fatty acid,2
+11,Saturated fatty acids and unsaturated fatty acid,0
+11,Saturated fatty acids and unsaturated fatty acid,0
+11,Saturated fatty acids and unsaturated fatty acid,0
+11,Saturated fatty acids and unsaturated fatty acid,0
+12,Cation,2
+12,Anion,0
+12,Cation and anion,0
+12,Cation and anion,0
+12,Cation and anion,0
+13,The nervous system,2
+13,The circulatory system,0
+13,The respiratory system,0
+13,The digestive system,0
+13,The endocrine system,0
+14,nucleoid,2
+14,nucleolu,0
+14,nucleu,0
+14,nucleoid,0
+14,nucleolu,0
+15,The bones inside the wing,2
+15,The wings themselve,0
+15,The muscles attached to the wing,0
+15,The feathers on the wing,0
+15,The shape of the wing,0
+16,Adult human,2
+16,Fish,0
+16,Reptile,0
+16,Amphibian,0
+16,Bird,0
+17,Neurons and glia of the spinal cord.,2
+17,The spinal cord develops from the anterior neural tube.,0
+17,"The spinal cord is a straight, hollow cord with a small space down the center.",0
+17,The spinal cord is a dorsal structure associated with sensory functions.,0
+17,The spinal cord is a ventral structure associated with motor functions.,0
+18,Dead zone,2
+18,Increased water temperature,0
+18,Increased water acidity,0
+18,Increased water salinity,0
+18,Increased water pollution,0
+19,Hydric soil,2
+19,The presence of emergent vegetation,0
+19,The soil is either permanently or periodically saturated with water,0
+19,The wetlands are shallow bodies of water,0
+19,The wetlands are different from lakes because they vary in depth,0
+20,Diversifying selection,2
+20,Stabilizing selection,0
+20,Disruptive selection,0
+20,Directional selection,0
+20,Balancing selection,0
+21,The asteroid belt is found between the orbits of Mars and Jupiter.,2
+21,The asteroid belt is found between the orbits of Earth and Mars.,0
+21,The asteroid belt is found between the orbits of Venus and Mars.,0
+21,The asteroid belt is found between the orbits of Mars and Saturn.,0
+21,The asteroid belt is found between the orbits of Mars and Uranus.,0
+22,Wave interference,2
+22,Wave cancellation,0
+22,Wave reflection,0
+22,Wave absorption,0
+22,Wave transmission,0
+23,Noble gases are monatomic because they only contain one atom.,2
+23,Noble gases are monatomic because they only contain one electron.,0
+23,Noble gases are monatomic because they only contain one proton.,0
+23,Noble gases are monatomic because they only contain one neutron.,0
+23,Noble gases are monatomic because they only contain one noble gas.,0
+24,Keratin fills the epidermal cells that make up fingernails and toenails.,2
+24,Fingernails and toenails are made of bone.,0
+24,Fingernails and toenails are made of cartilage.,0
+24,Fingernails and toenails are made of hair.,0
+24,Fingernails and toenails are made of skin.,0
+25,Apes and bat,2
+25,Humans and bat,0
+25,Apes and monkey,0
+25,Apes and ape,0
+25,Apes and ape,0
+26,Amniotic egg,2
+26,Amphibian egg,0
+26,Leathery egg,0
+26,Hard-shelled egg,0
+26,Live young,0
+27,The outer energy level in metalloids is about half full.,2
+27,The outer energy level in metalloids is completely full.,0
+27,The outer energy level in metalloids is completely empty.,0
+27,The outer energy level in metalloids is almost empty.,0
+27,The outer energy level in metalloids is almost full.,0
+28,The coccyx,2
+28,The sacrum,0
+28,The lumbar vertebrae,0
+28,The thoracic vertebrae,0
+28,The cervical vertebrae,0
+29,Completely elastic,2
+29,Partially elastic,0
+29,Completely inelastic,0
+29,Partially inelastic,0
+29,Completely inelastic,0
+30,Buoyancy,2
+30,Density,0
+30,Viscosity,0
+30,Surface tension,0
+30,Temperature,0
+31,Gymnosperm,2
+31,Angiosperm,0
+31,Conifer,0
+31,Fern,0
+31,Mosse,0
+32,Gravity is the force that causes objects to fall down to the ground.,2
+32,Magnetism is the force that causes objects to fall down to the ground.,0
+32,Electromagnetism is the force that causes objects to fall down to the ground.,0
+32,The Earth's rotation is the force that causes objects to fall down to the ground.,0
+32,The Earth's magnetic field is the force that causes objects to fall down to the ground.,0
+33,A reservoir,2
+33,A natural lake,0
+33,A river,0
+33,A pond,0
+33,A dam,0
+34,Cancer cell,2
+34,Normal cell,0
+34,Immune cell,0
+34,Stem cell,0
+34,Nerve cell,0
+35,Different interatomic distances produce different lattice energies.,2
+35,Different interatomic distances produce different lattice structures.,0
+35,Different interatomic distances produce different lattice sizes.,0
+35,Different interatomic distances produce different lattice charges.,0
+35,Different interatomic distances produce different lattice types.,0
+36,Skeletal muscles usually attach to the ends of bones where they meet at a joint.,2
+36,Skeletal muscles attach to the bones of the spine.,0
+36,Skeletal muscles attach to the bones of the skull.,0
+36,Skeletal muscles attach to the bones of the ribcage.,0
+36,Skeletal muscles attach to the bones of the pelvis.,0
+37,People with red hair usually have very light skin.,2
+37,People with red hair usually have dark skin.,0
+37,People with red hair usually have olive skin.,0
+37,People with red hair usually have fair skin.,0
+37,People with red hair usually have tan skin.,0
+38,Turquoise,2
+38,Jade,0
+38,Diamond,0
+38,Emerald,0
+38,Quartz,0
+39,Thermal energy,2
+39,Electrical energy,0
+39,Mechanical energy,0
+39,Chemical energy,0
+39,Radiant energy,0
+40,Endothermic animal,2
+40,Ectothermic animal,0
+40,Warm-blooded animal,0
+40,Cold-blooded animal,0
+40,Animals with insulation,0
+41,Mutation,2
+41,Natural selection can create new variations in organisms.,0
+41,Evolutionary forces only act on existing traits and behaviors.,0
+41,Novel traits and behaviors are introduced by external factors like climate change.,0
+41,Evolutionary forces are not responsible for the introduction of new traits and behaviors.,0
+42,Hydrogen atom,2
+42,Oxygen atom,0
+42,Nitrogen atom,0
+42,Sulfur atom,0
+42,Phosphorus atom,0
+43,Lung cancer,2
+43,Prostate cancer,0
+43,Breast cancer,0
+43,Colorectal cancer,0
+43,Skin cancer,0
+44,Electrochemical processes involve a transfer of electrons between the wire and the solution.,2
+44,Electrochemistry is the study of chemical processes that occur at the interface between an electron conductor and a solution of electrolytes.,0
+44,"Electrochemical processes can be used to create electrical power, purify metals, and carry out useful chemical transformations.",0
+44,Electrochemical reactions are often simply an ionic substance dissolved in water.,0
+44,Electrochemical processes are not related to the study of chemical processes at the interface between an electron conductor and a solution of electrolytes.,0
+45,The alveoli act like tiny bubbles.,2
+45,The alveoli act like tiny balloons.,0
+45,The alveoli act like tiny air sacs.,0
+45,The alveoli act like tiny filters.,0
+45,The alveoli act like tiny sponges.,0
+46,"The generation of environmental contaminants, such as hydrogen fluoride gas and other fluorides and metals, which can pollute water, soil, and air if not carefully managed.",2
+46,"The production of aluminum is entirely dependent on the use of fossil fuels, which contributes to climate change.",0
+46,"The process of aluminum production is highly energy-intensive, leading to increased energy consumption and costs.",0
+46,"The production of aluminum results in the release of greenhouse gases, which contribute to global warming.",0
+46,The use of aluminum in packaging is a major environmental concern due to its non-biodegradable nature.,0
+47,Hemoglobin,2
+47,Erythrocytes are packed with an oxygen-carrying compound called hemoglobin.,0
+47,Erythrocytes are packed with an oxygen-carrying compound called heme.,0
+47,Erythrocytes are packed with an oxygen-carrying compound called myoglobin.,0
+47,Erythrocytes are packed with an oxygen-carrying compound called carbon dioxide.,0
+48,Polar bonds contain atoms that possess either a partial positive or a partial negative charge.,2
+48,"Ionic bonds involve atoms with a complete transfer of electrons, resulting in a positive and negative charge.",0
+48,"Covalent bonds form when atoms share electrons, creating a neutral charge.",0
+48,"Hydrogen bonds are formed between a hydrogen atom and a highly electronegative atom, resulting in a partial positive charge.",0
+48,"Metallic bonds occur when metal atoms lose electrons, creating a positive charge.",0
+49,Latitude,2
+49,Longitude,0
+49,Altitude,0
+49,Azimuth,0
+49,Elevation,0
+50,1930,2
+50,1920,0
+50,1940,0
+50,1910,0
+50,1950,0
+51,A diploid cell contains two sets of chromosomes.,2
+51,A diploid cell contains two sets of genes.,0
+51,A diploid cell contains two sets of DNA.,0
+51,A diploid cell contains two sets of proteins.,0
+51,A diploid cell contains two sets of RNA.,0
+52,The axon hillock has a higher membrane potential.,2
+52,The axon terminal has a lower membrane potential.,0
+52,The axon initial segment has a lower membrane potential.,0
+52,The axon initial segment has a higher membrane potential.,0
+52,The axon terminal has a higher membrane potential.,0
+53,There are six types of leptons.,2
+53,There are only four types of leptons.,0
+53,There are eight types of leptons.,0
+53,There are only two types of leptons.,0
+53,There are ten types of leptons.,0
+54,The conducting zone of the respiratory system includes the organs and structures not directly involved in gas exchange.,2
+54,The conducting zone of the respiratory system includes the organs and structures not directly involved in the transportation of oxygen.,0
+54,The conducting zone of the respiratory system includes the organs and structures not directly involved in the removal of carbon dioxide.,0
+54,The conducting zone of the respiratory system includes the organs and structures not directly involved in the regulation of breathing.,0
+54,The conducting zone of the respiratory system includes the organs and structures not directly involved in the production of sound during breathing.,0
+55,AM radio waves exist in the 540 to 1600 kHz frequency range.,2
+55,FM radio waves are used in the 540 to 1600 kHz frequency range.,0
+55,Shortwave radio waves are used in the 540 to 1600 kHz frequency range.,0
+55,AM radio waves are used in the 540 to 1600 kHz frequency range for commercial signals.,0
+55,AM radio waves are used in the 540 to 1600 kHz frequency range for military communication.,0
+56,The kidneys secrete hormones that help maintain homeostasis.,2
+56,The liver secretes hormones that help maintain homeostasis.,0
+56,The pancreas secretes hormones that help maintain homeostasis.,0
+56,The heart secretes hormones that help maintain homeostasis.,0
+56,The lungs secrete hormones that help maintain homeostasis.,0
+57,Regular reflection occurs when light reflects off a very smooth surface and forms a clear image.,2
+57,Diffuse reflection occurs when light reflects off a very smooth surface and forms a clear image.,0
+57,Diffuse reflection occurs when light reflects off a rough surface and forms a blurry image or no image at all.,0
+57,Regular reflection occurs when light reflects off a rough surface and forms a blurry image or no image at all.,0
+57,Diffuse reflection occurs when light reflects off a very smooth surface and forms a blurry image or no image at all.,0
+58,Mechanical digestion begins in the mouth.,2
+58,Mechanical digestion begins in the stomach.,0
+58,Mechanical digestion begins in the small intestine.,0
+58,Mechanical digestion begins in the large intestine.,0
+58,Mechanical digestion begins in the esophagus.,0
+59,Explosive waste is likely to explode.,2
+59,Radioactive waste is likely to explode.,0
+59,Organic waste is likely to explode.,0
+59,Chemical waste is likely to explode.,0
+59,Biomedical waste is likely to explode.,0
+60,The thalamus acts as a gateway to and from the cortex.,2
+60,The thalamus acts as a gateway to and from the hypothalamus.,0
+60,The thalamus acts as a gateway to and from the limbic system.,0
+60,The thalamus acts as a gateway to and from the cerebellum.,0
+60,The thalamus acts as a gateway to and from the brainstem.,0
+61,Fly efficiently,2
+61,Swim better,0
+61,Run faster,0
+61,Dig burrow,0
+61,Climb tree,0
+62,Nonmetals are elements that generally do not conduct electricity.,2
+62,Metals are elements that do not conduct electricity.,0
+62,Metalloids are elements that do not conduct electricity.,0
+62,Elements located on the left side of the periodic table do not conduct electricity.,0
+62,Elements located on the right side of the periodic table do not conduct electricity.,0
+63,Transformer,2
+63,Capacitor,0
+63,Inductor,0
+63,Resistor,0
+63,Diode,0
+64,The physical property that changes when a glass breaks is its structural integrity.,2
+64,The color of the glass changes when it breaks.,0
+64,The glass becomes more fragile when it breaks.,0
+64,The glass becomes more transparent when it breaks.,0
+64,The glass becomes more brittle when it breaks.,0
+65,Xylem and phloem,2
+65,Xylem and lignin,0
+65,Phloem and lignin,0
+65,"Xylem and phloem, and lignin",0
+65,"Xylem and phloem, and sclerenchyma",0
+66,A solution,2
+66,A suspension,0
+66,A colloid,0
+66,A heterogeneous mixture,0
+66,A homogeneous mixture,0
+67,Stratosphere,2
+67,Troposphere,0
+67,Mesosphere,0
+67,Exosphere,0
+67,Ionosphere,0
+68,Homologous structures are structures that have a common function and suggest common ancestry.,2
+68,Analogous structures are structures that have a common function but do not suggest common ancestry.,0
+68,Vestigial structures are structures that have lost their original function but still suggest common ancestry.,0
+68,Convergent structures are structures that have evolved independently but share a similar function.,0
+68,Homoplastic structures are structures that have evolved independently but share a similar appearance.,0
+69,Signal transductions within target cells bring about a change in cellular function or behavior.,2
+69,Signal transductions within target cells cause the cell to grow and divide.,0
+69,Signal transductions within target cells lead to the production of new proteins.,0
+69,Signal transductions within target cells result in the activation of specific genes.,0
+69,Signal transductions within target cells trigger the cell to undergo apoptosis.,0
+70,Cnidaria,2
+70,Chordata,0
+70,Arthropoda,0
+70,Mollusca,0
+70,Annelida,0
+71,Cutaneous respiration,2
+71,Amphibians are characterized by three well-developed limbs.,0
+71,"Amphibians have a dry, impermeable skin used for respiration.",0
+71,"Amphibians have a moist, permeable skin used for osmoregulation.",0
+71,"Amphibians have a moist, permeable skin used for protection from predators.",0
+72,Replacement reactions occur when elements switch places in compounds.,2
+72,"In a single replacement reaction, one element takes the place of another in a single compound.",0
+72,"In a double replacement reaction, two compounds exchange elements.",0
+72,Replacement reactions are not related to the movement of elements in compounds.,0
+72,Replacement reactions only involve the exchange of elements within a single compound.,0
+73,Electricity,2
+73,Magnetism,0
+73,Light,0
+73,Sound,0
+73,Radio wave,0
+74,Electric current,2
+74,Electric charge,0
+74,Electric potential,0
+74,Electric resistance,0
+74,Electric field strength,0
+75,Mount Kilimanjaro has three different climates at the top and bottom.,2
+75,Mount Kilimanjaro has two distinct climates at the top and bottom.,0
+75,Mount Kilimanjaro has only one climate at the top and bottom.,0
+75,Mount Kilimanjaro has five different climates at the top and bottom.,0
+75,Mount Kilimanjaro has four different climates at the top and bottom.,0
+76,Viruse,2
+76,Bacteria,0
+76,Protozoa,0
+76,Fungi,0
+76,Parasite,0
+77,Phragmoplast,2
+77,Chloroplast,0
+77,Cell wall,0
+77,Chlorophyll molecule,0
+77,Starch,0
+78,The center of an earthquake is called the focus.,2
+78,The center of an earthquake is called the epicenter.,0
+78,The center of an earthquake is called the hypocenter.,0
+78,The center of an earthquake is called the seismic center.,0
+78,The center of an earthquake is called the seismic focus.,0
+79,A groin,2
+79,A seawall,0
+79,A breakwater,0
+79,A jetty,0
+79,A revetment,0
+80,Polymerization,2
+80,Depolymerization,0
+80,Hydrolysi,0
+80,Oxidation,0
+80,Condensation,0
+81,Metamorphism,2
+81,Metamorphosi,0
+81,Metamorphic,0
+81,Metamorphic Transformation,0
+81,Metamorphic Proce,0
+82,Three processes contribute to the emergence of viral disease,2
+82,Two processes contribute to the emergence of viral disease,0
+82,Four processes contribute to the emergence of viral disease,0
+82,Five processes contribute to the emergence of viral disease,0
+82,One process contributes to the emergence of viral disease,0
+83,Somatic mutation,2
+83,Genetic mutation,0
+83,Hereditary mutation,0
+83,Mutations in the germline,0
+83,Mutations in the mitochondria,0
+84,The affected variable is called the dependent variable.,2
+84,The affected variable is called the independent variable.,0
+84,The affected variable is called the control variable.,0
+84,The affected variable is called the experimental variable.,0
+84,The affected variable is called the experimental group.,0
+85,Humans are classified as placental mammals.,2
+85,Humans are classified as marsupials.,0
+85,Humans are classified as monotremes.,0
+85,Humans are classified as monotremes and marsupials.,0
+85,Humans are classified as monotremes and placental mammals.,0
+86,Water,2
+86,Alcohol,0
+86,Saltwater,0
+86,Air,0
+86,Mercury,0
+87,Chloroplasts are responsible for photosynthesis in plant and algal cells.,2
+87,Chloroplasts are responsible for cellular respiration in plant and algal cells.,0
+87,Chloroplasts are responsible for the production of glucose in plant and algal cells.,0
+87,Chloroplasts are responsible for the production of oxygen in plant and algal cells.,0
+87,Chloroplasts are responsible for the production of chlorophyll in plant and algal cells.,0
+88,Oceanic crust,2
+88,Continental crust is thinner and denser than oceanic crust.,0
+88,Oceanic crust is thicker and less dense than continental crust.,0
+88,Continental crust is thicker and denser than oceanic crust.,0
+88,Oceanic crust is thinner and less dense than continental crust.,0
+89,There are three types of mechanical waves.,2
+89,There are only two types of mechanical waves.,0
+89,There are four types of mechanical waves.,0
+89,There are five types of mechanical waves.,0
+89,There are six types of mechanical waves.,0
+90,Weed,2
+90,Invasive specie,0
+90,Non-native plant,0
+90,Unwanted plant,0
+90,Unwanted vegetation,0
+91,Cancer is a disease that causes cells to divide out of control.,2
+91,Diabetes is a disease that causes cells to divide out of control.,0
+91,Alzheimer's disease is a disease that causes cells to divide out of control.,0
+91,AIDS is a disease that causes cells to divide out of control.,0
+91,Asthma is a disease that causes cells to divide out of control.,0
+92,Autocrine signaling takes place within the same cell.,2
+92,Autocrine signaling takes place within the same organism.,0
+92,Autocrine signaling takes place within the same tissue.,0
+92,Autocrine signaling takes place within the same organ.,0
+92,Autocrine signaling takes place within the same body system.,0
+93,Mitosi,2
+93,Meiosi,0
+93,Cytokinesi,0
+93,Prophase,0
+93,Anaphase,0
+94,Large asteroids colliding with Earth,2
+94,Comets colliding with Earth,0
+94,Volcanic eruptions on Earth,0
+94,Meteor showers hitting Earth,0
+94,Asteroids hitting Earth's moon,0
+95,"""having knowledge""",2
+95,"""studying the natural world""",0
+95,"""a way of learning about the natural world""",0
+95,"""a set of facts""",0
+95,"""a way of thinking""",0
+96,Angiosperms produce flowers and fruits.,2
+96,Angiosperms produce seeds and leaves.,0
+96,Angiosperms produce roots and stems.,0
+96,Angiosperms produce pollen and nectar.,0
+96,Angiosperms produce spores and gametes.,0
+97,Aquatic arthropods use gills to exchange gases with the water.,2
+97,Aquatic arthropods use lungs to exchange gases with the water.,0
+97,Aquatic arthropods use specialized respiratory structures to exchange gases with the water.,0
+97,Aquatic arthropods use tracheal systems to exchange gases with the water.,0
+97,Aquatic arthropods use specialized skin structures to exchange gases with the water.,0
+98,Nutrient,2
+98,Building block,0
+98,Energy source,0
+98,Recycled material,0
+98,Waste product,0
+99,Dew point,2
+99,Freezing point,0
+99,Boiling point,0
+99,Melting point,0
+99,Evaporation point,0
+100,Antigen,2
+100,Enzyme,0
+100,Hormone,0
+100,Carbohydrate,0
+100,Lipid,0
+101,Pressure,2
+101,Temperature,0
+101,Volume,0
+101,Density,0
+101,Speed,0
+102,Displacement,2
+102,Distance,0
+102,Position,0
+102,Velocity,0
+102,Acceleration,0
+103,Earth is the only known planet with large amounts of water.,2
+103,Mars has the most water on any planet.,0
+103,Venus has the largest amount of water in the solar system.,0
+103,Jupiter is the only planet with liquid water.,0
+103,Mercury has the highest percentage of water in its composition.,0
+104,Organelle,2
+104,Macromolecule,0
+104,Viruse,0
+104,Prokaryote,0
+104,Microorganism,0
+105,The rate of chemical reactions increases with higher temperatures.,2
+105,The rate of chemical reactions decreases with higher temperatures.,0
+105,The rate of chemical reactions remains constant regardless of temperature.,0
+105,The rate of chemical reactions doubles for every 10°C increase in temperature.,0
+105,The rate of chemical reactions is not affected by temperature.,0
+106,Electron,2
+106,Proton,0
+106,Helium nuclei,0
+106,Neutron,0
+106,Massless particle,0
+107,The state of matter,2
+107,The color of matter,0
+107,The size of molecule,0
+107,The temperature of matter,0
+107,The taste of matter,0
+108,Endocytosis and exocytosis are the active transport mechanisms by which molecules enter and leave the cell inside vesicles.,2
+108,Phagocytosis is the process by which cells engulf large molecules and form vesicles.,0
+108,Pinocytosis is the process by which cells take in small molecules and form vesicles.,0
+108,Receptor-mediated endocytosis is the process by which cells take in molecules through specific receptors and form vesicles.,0
+108,Exocytosis is the process by which cells release molecules from vesicles into the extracellular environment.,0
+109,The ideal gas law is applicable to gases in the state of matter.,2
+109,The ideal gas law is applicable to liquids in the state of matter.,0
+109,The ideal gas law is applicable to solids in the state of matter.,0
+109,The ideal gas law is applicable to plasmas in the state of matter.,0
+109,"The ideal gas law is applicable to gases in the state of matter, but only at low temperatures and high pressures.",0
+110,"Metals, nonmetals, and metalloids.",2
+110,"Metals, nonmetals, and metalloids are classified based on their atomic structure.",0
+110,"Metals, nonmetals, and metalloids are classified based on their chemical properties.",0
+110,"Metals, nonmetals, and metalloids are classified based on their physical properties.",0
+110,"Metals, nonmetals, and metalloids are classified based on their electrical conductivity.",0
+111,The frequency factor is used to convert concentrations to collisions per second.,2
+111,The Arrhenius equation is used to convert concentrations to collisions per second.,0
+111,The ideal gas constant is used to convert concentrations to collisions per second.,0
+111,The reaction rate is used to convert concentrations to collisions per second.,0
+111,The activation energy is used to convert concentrations to collisions per second.,0
+112,Mitosi,2
+112,Meiosi,0
+112,Cytokinesi,0
+112,Apoptosi,0
+112,Prokaryotic cell division,0
+113,White dwarf,2
+113,Red giant,0
+113,Black hole,0
+113,Neutron star,0
+113,Brown dwarf,0
+114,"Alcohol expands uniformly over a wide range of temperatures, making it ideal for use in thermometers.",2
+114,"Alcohol expands only in a narrow range of temperatures, limiting its use in thermometers.",0
+114,"Alcohol contracts over a wide range of temperatures, making it unsuitable for use in thermometers.",0
+114,"Alcohol expands non-uniformly over a wide range of temperatures, making it less ideal for use in thermometers.",0
+114,"Alcohol expands only in specific temperature ranges, making it unsuitable for use in thermometers.",0
+115,Spore,2
+115,Seedling,0
+115,Adult plant,0
+115,Juvenile plant,0
+115,Fungi,0
+116,Carbon dioxide and water vapor produced by cellular respiration are released from the body with each exhalation.,2
+116,Carbon dioxide and water vapor are released from the body through the skin.,0
+116,Carbon dioxide and water vapor are released from the body through sweating.,0
+116,Carbon dioxide and water vapor are released from the body through urine.,0
+116,Carbon dioxide and water vapor are released from the body through feces.,0
+117,The olfactory epithelium,2
+117,The olfactory bulb,0
+117,The olfactory nerve,0
+117,The olfactory mucosa,0
+117,The olfactory lobe,0
+118,Voyager 2,2
+118,Hubble Space Telescope,0
+118,Mars Rover,0
+118,Cassini-Huygen,0
+118,New Horizon,0
+119,Carbohydrates contained in food.,2
+119,Proteins.,0
+119,Fats.,0
+119,Vitamins.,0
+119,Minerals.,0
+120,Light is energy that travels in the form of an electromagnetic wave.,2
+120,Sound is energy that travels in the form of an electromagnetic wave.,0
+120,Heat is energy that travels in the form of an electromagnetic wave.,0
+120,Radio waves are energy that travels in the form of an electromagnetic wave.,0
+120,Microwaves are energy that travels in the form of an electromagnetic wave.,0
+121,Dissolve in water,2
+121,Become less polar,0
+121,Form a weak bond with water,0
+121,Become more soluble in other solvent,0
+121,Become less soluble in other solvent,0
+122,A monosaccharide is a simple sugar such as fructose or glucose.,2
+122,A monosaccharide is a complex sugar found in fruits and carbohydrates.,0
+122,A monosaccharide is a type of sugar that is not found in fruits or carbohydrates.,0
+122,A monosaccharide is a sugar that is only found in fruits and not in carbohydrates.,0
+122,A monosaccharide is a sugar that is only found in carbohydrates and not in fruits.,0
+123,Tide,2
+123,Ocean current,0
+123,Wave,0
+123,Tidal wave,0
+123,Tidal force,0
+124,The lateral line,2
+124,The ampullae of Lorenzini,0
+124,The olfactory organ,0
+124,The electroreceptive organ,0
+124,The auditory organ,0
+125,The population is the unit of evolution.,2
+125,Individuals are the unit of evolution.,0
+125,Species are the unit of evolution.,0
+125,Genes are the unit of evolution.,0
+125,Ecosystems are the unit of evolution.,0
+126,dermi,2
+126,epidermi,0
+126,hair follicle,0
+126,bulb,0
+126,keratin,0
+127,Electricity,2
+127,Water,0
+127,Grain,0
+127,Sailing ship,0
+127,Kinetic energy,0
+128,Sleep is an inactive state in the brain.,2
+128,Sleep is an active state in the brain.,0
+128,Sleep is a passive state in the brain.,0
+128,Sleep is a dormant state in the brain.,0
+128,Sleep is a resting state in the brain.,0
+129,Gamete,2
+129,Reproductive cell,0
+129,Sex cell,0
+129,Germ cell,0
+129,Ova and sperm,0
+130,Skepticism,2
+130,Doubt about the validity of scientific claim,0
+130,Disbelief in the existence of scientific evidence,0
+130,Questioning the credibility of anecdotal evidence,0
+130,Rejection of claims without proper scientific backing,0
+131,Insect,2
+131,Crustacean,0
+131,Arachnid,0
+131,Myriapod,0
+131,Mollusk,0
+132,masse,2
+132,distance,0
+132,temperature,0
+132,color,0
+132,ize,0
+133,Oil does not mix with water.,2
+133,Oil does not dissolve in water.,0
+133,Oil does not evaporate in water.,0
+133,Oil does not float on water.,0
+133,Oil does not conduct electricity in water.,0
+134,Annelida,2
+134,Arthropoda,0
+134,Chordata,0
+134,Mollusca,0
+134,Protozoa,0
+135,Over-exposure to ultraviolet light,2
+135,Poor diet,0
+135,Lack of sleep,0
+135,Stre,0
+135,Insufficient exercise,0
+136,A beach is created.,2
+136,A sand dune is formed.,0
+136,A sandbar is created.,0
+136,A sandy riverbed is formed.,0
+136,A sandy desert is created.,0
+137,Pollination,2
+137,Fertilization,0
+137,Germination,0
+137,Photosynthesi,0
+137,Transpiration,0
+138,The cell body contains the nucleus and other organelles.,2
+138,The cell body contains only the nucleus and no other organelles.,0
+138,"The cell body contains the nucleus and other structures, but not organelles.",0
+138,"The cell body contains the nucleus and other organelles, but not the nucleolus.",0
+138,"The cell body contains the nucleus and other organelles, but not the mitochondria.",0
+139,Constructive interference,2
+139,Refractive interference,0
+139,Resonant interference,0
+139,Diffractive interference,0
+139,Transmissive interference,0
+140,Algae,2
+140,Bacteria,0
+140,Fungi,0
+140,Protozoa,0
+140,Zooplankton,0
+141,Diffraction gratings produce evenly spaced lines.,2
+141,Diffraction gratings produce lines that are unevenly spaced.,0
+141,Diffraction gratings produce lines that are randomly spaced.,0
+141,Diffraction gratings produce lines that are not spaced at all.,0
+141,Diffraction gratings produce lines that are spaced at irregular intervals.,0
+142,The Equator is an equal distance from both the North and South Poles.,2
+142,The Tropic of Cancer is an equal distance from both the North and South Poles.,0
+142,The Tropic of Capricorn is an equal distance from both the North and South Poles.,0
+142,The Arctic Circle is an equal distance from both the North and South Poles.,0
+142,The Antarctic Circle is an equal distance from both the North and South Poles.,0
+143,Comparisons of amino acid sequences can shed light on the evolutionary divergence of proteins.,2
+143,Comparisons of amino acid sequences can shed light on the evolutionary divergence of genes.,0
+143,Comparisons of amino acid sequences can shed light on the evolutionary divergence of species.,0
+143,Comparisons of amino acid sequences can shed light on the evolutionary divergence of organisms.,0
+143,Comparisons of amino acid sequences can shed light on the evolutionary divergence of molecules.,0
+144,"The skin protects the body from injury, water loss, and microorganisms.",2
+144,"The liver is responsible for protecting the body from injury, water loss, and microorganisms.",0
+144,"The lungs play a major role in maintaining a stable body temperature and protecting the body from injury, water loss, and microorganisms.",0
+144,"The heart is the primary organ that protects the body from injury, water loss, and microorganisms.",0
+144,"The kidneys are responsible for maintaining a stable body temperature and protecting the body from injury, water loss, and microorganisms.",0
+145,Cephalopoda,2
+145,Gastropoda,0
+145,Mollusca,0
+145,Crustacea,0
+145,Arthropoda,0
+146,Newton's third law of motion describes the property of forces that means balance.,2
+146,Newton's third law of motion describes the property of forces that means forces always occur in pairs.,0
+146,Newton's third law of motion describes the property of forces that means forces always occur in pairs and are equal in magnitude.,0
+146,Newton's third law of motion describes the property of forces that means forces always occur in pairs and are equal in magnitude and opposite in direction.,0
+146,"Newton's third law of motion describes the property of forces that means forces always occur in pairs and are equal in magnitude and opposite in direction, but they do not cancel each other out.",0
+147,All cells have a nucleus that contains their genetic material.,2
+147,All cells are the same size and shape.,0
+147,All cells are visible to the naked eye.,0
+147,All cells are found only in humans.,0
+147,All cells are too large to be measured in micrometers.,0
+148,Cranial nerve,2
+148,Spinal nerve,0
+148,Peripheral nerve,0
+148,Autonomic nerve,0
+148,Cerebral nerve,0
+149,Bird,2
+149,Reptile,0
+149,Mammal,0
+149,Fish,0
+149,Insect,0
+150,Saturated fatty acid,2
+150,Unsaturated fatty acid,0
+150,Monounsaturated fatty acid,0
+150,Polyunsaturated fatty acid,0
+150,Trans fatty acid,0
+151,Learned behavior,2
+151,Innate behavior,0
+151,Instinctual behavior,0
+151,Unlearned behavior,0
+151,Natural behavior,0
+152,Polygenic trait,2
+152,Traits with a single gene,0
+152,Traits with a dominant gene,0
+152,Traits with a recessive gene,0
+152,Traits with a single allele,0
+153,Air pollution,2
+153,Water pollution,0
+153,Noise pollution,0
+153,Light pollution,0
+153,Radiation pollution,0
+154,Transgenic animals are animals that have incorporated a gene from another species into their genome.,2
+154,Transgenic animals are animals that have incorporated a gene from another species into their DNA.,0
+154,Transgenic animals are animals that have incorporated a gene from another species into their chromosomes.,0
+154,Transgenic animals are animals that have incorporated a gene from another species into their cells.,0
+154,Transgenic animals are animals that have incorporated a gene from another species into their genetic material.,0
+155,Accuracy,2
+155,Precision,0
+155,Reliability,0
+155,Validity,0
+155,Sensitivity,0
+156,Clouds on Earth are made of water vapor.,2
+156,Clouds on Earth are made of carbon dioxide.,0
+156,Clouds on Earth are made of sulfur dioxide.,0
+156,Clouds on Earth are made of large amounts of corrosive sulfuric acid.,0
+156,"Clouds on Earth are made of a mixture of water vapor, carbon dioxide, sulfur dioxide, and large amounts of corrosive sulfuric acid.",0
+157,Covalent compound,2
+157,Ionic compound,0
+157,Metallic compound,0
+157,Organic compound,0
+157,Inorganic compound,0
+158,Stress building up at the same rate over time at a fault causes the phenomenon of earthquakes.,2
+158,Stress building up at the same rate over time at a fault causes the phenomenon of volcanic eruptions.,0
+158,Stress building up at the same rate over time at a fault causes the phenomenon of tsunamis.,0
+158,Stress building up at the same rate over time at a fault causes the phenomenon of landslides.,0
+158,Stress building up at the same rate over time at a fault causes the phenomenon of sinkholes.,0
+159,Skeletal muscles cause bones to move when they contract.,2
+159,Cardiac muscles cause bones to move when they retract.,0
+159,Smooth muscles cause bones to move when they retract.,0
+159,Voluntary muscles cause bones to move when they retract.,0
+159,Involuntary muscles cause bones to move when they retract.,0
+160,Esterification,2
+160,Dehydration reaction,0
+160,Transesterification,0
+160,Hydrolysis reaction,0
+160,Hydrolysis reaction,0
+161,Chloroplasts are the little green particles in plants made up of the colorful pigment chlorophyll.,2
+161,Chloroplasts are the little green particles in plants made up of the colorful pigment chlorophyllin.,0
+161,Chloroplasts are the little green particles in plants made up of the colorful pigment chlorophyllium.,0
+161,Chloroplasts are the little green particles in plants made up of the colorful pigment chlorophyllic acid.,0
+161,Chloroplasts are the little green particles in plants made up of the colorful pigment chlorophyllic acid.,0
+162,The pH scale measures acidity.,2
+162,The Richter scale measures acidity.,0
+162,The Beaufort scale measures acidity.,0
+162,The Mohs scale measures acidity.,0
+162,The Fahrenheit scale measures acidity.,0
+163,Signal,2
+163,Electrical impulse,0
+163,Chemical message,0
+163,Radio wave,0
+163,Light signal,0
+164,Vascular plant,2
+164,Fern,0
+164,Mosse,0
+164,Algae,0
+164,Lichen,0
+165,The hydroxyl radical is highly reactive because it has an unpaired electron.,2
+165,The hydroxyl radical is highly reactive because it has a single bond.,0
+165,The hydroxyl radical is highly reactive because it has a double bond.,0
+165,The hydroxyl radical is highly reactive because it has a triple bond.,0
+165,The hydroxyl radical is highly reactive because it has a quadruple bond.,0
+166,Oxygen moves into the blood and carbon dioxide moves out of the blood during gas exchange.,2
+166,Carbon dioxide moves into the blood and oxygen moves out of the blood during gas exchange.,0
+166,Nitrogen moves into the blood and oxygen moves out of the blood during gas exchange.,0
+166,Oxygen moves into the blood and nitrogen moves out of the blood during gas exchange.,0
+166,Carbon dioxide moves into the blood and nitrogen moves out of the blood during gas exchange.,0
+167,The modern atomic theory,2
+167,The ancient atomic theory,0
+167,The quantum theory,0
+167,The molecular theory,0
+167,The atomic number theory,0
+168,"Large ocean currents, such as the Gulf Stream, can have a significant impact on coastal climates.",2
+168,Coastal climates are primarily influenced by the temperature of the ocean.,0
+168,The Gulf Stream only affects the eastern coast of North America.,0
+168,Coastal climates are mainly determined by the distance from the equator.,0
+168,Coastal climates are primarily influenced by the presence of nearby mountains.,0
+169,Sperm,2
+169,Pollen,0
+169,Ovum,0
+169,Egg,0
+169,Zygote,0
+170,The cell wall is a rigid layer that surrounds the plasma membrane of a plant cell.,2
+170,The cell membrane is a rigid layer that surrounds the plasma membrane of a plant cell.,0
+170,"The cell wall is made up of simple carbohydrates, including cellulose.",0
+170,The cell wall is made up of proteins and lipids.,0
+170,The cell wall is a flexible layer that surrounds the plasma membrane of a plant cell.,0
+171,Silicon dioxide forms σ bonds instead of π bonds.,2
+171,Silicon dioxide forms π bonds as readily as second-period elements.,0
+171,Silicon dioxide forms σ bonds as readily as second-period elements.,0
+171,Silicon dioxide forms π bonds as weakly as second-period elements.,0
+171,Silicon dioxide forms σ bonds as strongly as second-period elements.,0
+172,Leaves respond to environmental stimuli by producing less chlorophyll.,2
+172,Leaves respond to environmental stimuli by producing less stomata.,0
+172,Leaves respond to environmental stimuli by producing less photosynthesis.,0
+172,Leaves respond to environmental stimuli by producing less transpiration.,0
+172,Leaves respond to environmental stimuli by producing less nitrogen.,0
+173,Plantar flexion,2
+173,Inversion,0
+173,Eversion,0
+173,Supination,0
+173,Pronation,0
+174,The nucleus stores chromatin in a gel-like substance called the nucleoplasm.,2
+174,The nucleus stores chromatin in the nucleolus.,0
+174,The nucleus stores chromatin in the nuclear envelope.,0
+174,The nucleus stores chromatin in the endoplasmic reticulum.,0
+174,The nucleus stores chromatin in the cytoplasm.,0
+175,The middle layer that hair passes through before exiting at the surface of the skin is the dermis.,2
+175,The middle layer that hair passes through before exiting at the surface of the skin is the epidermis.,0
+175,The middle layer that hair passes through before exiting at the surface of the skin is the subcutaneous layer.,0
+175,The middle layer that hair passes through before exiting at the surface of the skin is the hypodermis.,0
+175,The middle layer that hair passes through before exiting at the surface of the skin is the stratum corneum.,0
+176,The centromere,2
+176,The telomere,0
+176,The nucleosome,0
+176,The histone,0
+176,The DNA helix,0
+177,The earliest ocean plants are thought to have evolved from a green alga ancestor.,2
+177,The earliest plants evolved from a land-based ancestor.,0
+177,The earliest plants evolved from a single-celled organism.,0
+177,The earliest plants evolved from a fungi-like ancestor.,0
+177,The earliest plants evolved from a bacteria-like ancestor.,0
+178,A lone pair,2
+178,A non-bonding pair,0
+178,A bridging pair,0
+178,A resonance pair,0
+178,A delocalized pair,0
+179,Some marine algae have evolved special structures capable of photosynthesis.,2
+179,Some marine algae have evolved special structures capable of respiration.,0
+179,Some marine algae have evolved special structures capable of reproduction.,0
+179,Some marine algae have evolved special structures capable of absorbing nutrients.,0
+179,Some marine algae have evolved special structures capable of producing oxygen.,0
+180,Microfilament,2
+180,Microtubule,0
+180,Intermediate filament,0
+180,Microtubule,0
+180,Intermediate filament,0
+181,Electrons occupy the lowest possible energy positions during ground state.,2
+181,Electrons occupy the highest energy positions during ground state.,0
+181,Electrons occupy the same energy positions as the nearest noble gas during ground state.,0
+181,"Electrons occupy the lowest energy positions during ground state, but not the lowest possible energy positions.",0
+181,"Electrons occupy the highest energy positions during ground state, but not the highest possible energy positions.",0
+182,A change in the sequence of bases in DNA or RNA is called a mutation.,2
+182,A change in the sequence of bases in DNA or RNA is called a genetic variation.,0
+182,A change in the sequence of bases in DNA or RNA is called a genetic alteration.,0
+182,A change in the sequence of bases in DNA or RNA is called a genetic modification.,0
+182,A change in the sequence of bases in DNA or RNA is called a genetic mutation.,0
+183,Blood,2
+183,Oxygen,0
+183,Air,0
+183,Nutrient,0
+183,Waste product,0
+184,Periosteum,2
+184,Cartilage,0
+184,Fibrous connective tissue,0
+184,Blood vessel,0
+184,Muscle tissue,0
+185,Skeletal system,2
+185,Respiratory system,0
+185,Circulatory system,0
+185,Nervous system,0
+185,Digestive system,0
+186,Sea otter,2
+186,Dolphin,0
+186,Polar bear,0
+186,Penguin,0
+186,Elephant,0
+187,Sir Isaac Newton's law of gravity helped people understand the force that causes objects to fall towards the Earth.,2
+187,Sir Isaac Newton's law of gravity helped people understand the force that causes objects to float in the air.,0
+187,Sir Isaac Newton's law of gravity helped people understand the force that causes objects to rise upwards.,0
+187,Sir Isaac Newton's law of gravity helped people understand the force that causes objects to move in a straight line.,0
+187,Sir Isaac Newton's law of gravity helped people understand the force that causes objects to move in a circular motion.,0
+188,Endospore,2
+188,Protozoa,0
+188,Sporulation,0
+188,Sporulation in plant,0
+188,Sporulation in fungi,0
+189,Epithelial tissue,2
+189,Connective tissue,0
+189,Muscle tissue,0
+189,Nervous tissue,0
+189,Endocrine tissue,0
+190,An anion,2
+190,A cation,0
+190,A metal,0
+190,A noble ga,0
+190,A neutral atom,0
+191,Cancer of the prostate gland is the most common type of cancer in adult males.,2
+191,Cancer of the lungs is the most common type of cancer in adult males.,0
+191,Cancer of the colon is the most common type of cancer in adult males.,0
+191,Cancer of the bladder is the most common type of cancer in adult males.,0
+191,Cancer of the testicles is the most common type of cancer in adult males.,0
+192,Kinetic energy,2
+192,Potential energy,0
+192,Chemical energy,0
+192,Electrical energy,0
+192,Thermal energy,0
+193,Nitrogen,2
+193,Oxygen,0
+193,Carbon,0
+193,Hydrogen,0
+193,Sulfur,0
+194,A force does work when it results in movement.,2
+194,A force does work when it causes a change in velocity.,0
+194,A force does work when it results in a change in energy.,0
+194,A force does work when it results in a change in temperature.,0
+194,A force does work when it results in a change in pressure.,0
+195,The placenta,2
+195,The umbilical cord,0
+195,The amniotic sac,0
+195,The mother's bloodstream,0
+195,The mother's lung,0
+196,Acetylene (C2H2),2
+196,Water (H2O),0
+196,Carbon Dioxide (CO2),0
+196,Methane (CH4),0
+196,Ammonia (NH3),0
+197,Chemical and solar cells are devices that change chemical or light energy to electrical energy.,2
+197,Chemical and solar cells are devices that change chemical or light energy to heat energy.,0
+197,Chemical and solar cells are devices that change chemical or light energy to mechanical energy.,0
+197,Chemical and solar cells are devices that change chemical or light energy to sound energy.,0
+197,Chemical and solar cells are devices that change chemical or light energy to chemical energy.,0
+198,One gram of proteins provides 4 calories of energy.,2
+198,One gram of proteins provides 9 calories of energy.,0
+198,One gram of proteins provides 10 calories of energy.,0
+198,One gram of proteins provides 12 calories of energy.,0
+198,One gram of proteins provides 15 calories of energy.,0
+199,A cyst is a sac filled with fluid or other material.,2
+199,A tumor is a sac filled with fluid or other material.,0
+199,A blister is a sac filled with fluid or other material.,0
+199,A pimple is a sac filled with fluid or other material.,0
+199,A boil is a sac filled with fluid or other material.,0
+200,Valve,2
+200,One-way check valve,0
+200,Semi-permeable membrane,0
+200,Anti-backflow device,0
+200,Pressure-sensitive barrier,0
+201,Center of gravity,2
+201,Center of ma,0
+201,Balance point,0
+201,Weight distribution point,0
+201,Equilibrium point,0
+202,The nucleu,2
+202,The mitochondria,0
+202,The endoplasmic reticulum,0
+202,The Golgi apparatu,0
+202,The lysosome,0
+203,"The key issue in the small-population approach is the limited availability of data, which can lead to inaccurate conclusions and biased results.",2
+203,The small-population approach is focused on studying large populations.,0
+203,The small-population approach is only applicable to small populations.,0
+203,The small-population approach is a method used to study large populations.,0
+203,The small-population approach is a method used to study small populations.,0
+204,Electronic component,2
+204,Parts of a car,0
+204,Components of a computer,0
+204,Parts of a watch,0
+204,Components of a television,0
+205,Stromatolite,2
+205,Sedimentary rock,0
+205,Microbial mat,0
+205,Layered sedimentary structure,0
+205,Microbialite formation,0
+206,Hydrogen ga,2
+206,Carbon dioxide,0
+206,Oxygen,0
+206,Nitrogen,0
+206,Sulfur dioxide,0
+207,Moving,2
+207,Producing their own food,0
+207,Living in water only,0
+207,Being immobile,0
+207,Being autotrophic,0
+208,Noble gase,2
+208,Group 18 gases with 10 valence electron,0
+208,Group 18 gases with 12 valence electron,0
+208,Group 18 gases with 14 valence electron,0
+208,Group 18 gases with 16 valence electron,0
+209,Cell type,2
+209,Cell function,0
+209,Cell location,0
+209,Cell morphology,0
+209,Cell behavior,0
+210,The appendix serves no purpose in humans today.,2
+210,The appendix is a storage organ for vitamins and minerals.,0
+210,The appendix is a remnant of a once-larger organ that helped in digestion.,0
+210,The appendix is a vestigial structure that aids in the immune system.,0
+210,The appendix is a leftover organ that helps in the absorption of nutrients.,0
+211,Primate,2
+211,Bird,0
+211,Reptile,0
+211,Mammal,0
+211,Fish,0
+212,Contribute to their decay.,2
+212,Contribute to the growth of plants.,0
+212,Contribute to the formation of new soil.,0
+212,Contribute to the development of new ecosystems.,0
+212,Contribute to the spread of diseases in animals.,0
+213,Bone fracture,2
+213,Heart attack,0
+213,Cancer,0
+213,Weight gain,0
+213,Hair lo,0
+214,The root system anchors the plant into the soil.,2
+214,The stem anchors the plant into the soil.,0
+214,The leaves anchor the plant into the soil.,0
+214,The flowers anchor the plant into the soil.,0
+214,The fruits anchor the plant into the soil.,0
+215,Succession,2
+215,Evolution,0
+215,Adaptation,0
+215,Ecosystem,0
+215,Biodiversity,0
+216,Magma,2
+216,Water,0
+216,Air,0
+216,Ice,0
+216,Plant root,0
+217,"Air pollution, mainly caused by the burning of fossil fuels, contributes to acid rain, ozone depletion, and global warming.",2
+217,Acid rain is caused by the release of sulfur dioxide from volcanic eruptions.,0
+217,Ozone depletion is primarily due to the release of chlorofluorocarbons from aerosol sprays.,0
+217,Global warming is caused by the release of methane from livestock farming.,0
+217,Acid rain is caused by the release of nitrogen oxides from vehicle exhaust.,0
+218,Tropical climates are found around the Equator.,2
+218,Arid climates are found around the Equator.,0
+218,Polar climates are found around the Equator.,0
+218,Mountainous climates are found around the Equator.,0
+218,Desert climates are found around the Equator.,0
+219,Exothermic,2
+219,Endothermic,0
+219,Endothermic,0
+219,Exothermic,0
+219,Endothermic,0
+220,Chameleon,2
+220,Gecko,0
+220,Iguana,0
+220,Bearded dragon,0
+220,Anole,0
+221,Caffeine,2
+221,Alcohol,0
+221,Glucose,0
+221,Mannitol,0
+221,Sucrose,0
+222,"The sliding-and-shortening process occurs all along many myofibrils and in many muscle fibers, causing the muscle fibers to shorten and the muscle to contract.",2
+222,"The sliding-and-shortening process only occurs in a few myofibrils, causing the muscle fibers to shorten and the muscle to contract.",0
+222,"The sliding-and-shortening process occurs in a single myofibril, causing the muscle fibers to shorten and the muscle to contract.",0
+222,"The sliding-and-shortening process occurs in a specific region of the muscle fibers, causing the muscle fibers to shorten and the muscle to contract.",0
+222,"The sliding-and-shortening process occurs in a single muscle fiber, causing the muscle fibers to shorten and the muscle to contract.",0
+223,The period from Earth's origin to the beginning of the Phanerozoic Eon is called the Precambrian.,2
+223,The Precambrian is the time period when life first appeared on Earth.,0
+223,The Precambrian is the time period when Earth's atmosphere was primarily composed of carbon dioxide.,0
+223,The Precambrian is the time period when Earth's surface was mostly covered by water.,0
+223,The Precambrian is the time period when Earth's surface was mostly covered by ice.,0
+224,The opercular muscles are used to pump water over the gills.,2
+224,The pectoral muscles are responsible for pumping water over the gills.,0
+224,The branchial muscles are involved in the process of pumping water over the gills.,0
+224,The ventral muscles play a role in pumping water over the gills.,0
+224,The dorsal muscles are responsible for pumping water over the gills.,0
+225,Growth slows down as populations approach the carrying capacity.,2
+225,Populations grow faster when they have more resources.,0
+225,Birth and death rates are not related to population growth.,0
+225,Populations can grow indefinitely without reaching a carrying capacity.,0
+225,The carrying capacity is the maximum population a species can support.,0
+226,"Both skeletal muscle cells and cardiac muscle cells have striations, while smooth muscle cells do not.",2
+226,"Skeletal muscle cells have striations, while cardiac muscle cells do not.",0
+226,"Cardiac muscle cells have striations, while skeletal muscle cells do not.",0
+226,"Smooth muscle cells have striations, while skeletal muscle cells do not.",0
+226,"Both skeletal muscle cells and cardiac muscle cells have intercalated discs, which is not shared by smooth muscle cells.",0
+227,The lung,2
+227,The heart,0
+227,The liver,0
+227,The kidney,0
+227,The stomach,0
+228,Habituation,2
+228,Adaptation,0
+228,Desensitization,0
+228,Imprinting,0
+228,Conditioning,0
+229,"Longitudinal and transverse components of earthquakes travel at different speeds, with P-waves (longitudinal) being faster than S-waves (transverse) in more rigid materials like granite.",2
+229,Longitudinal and transverse components of earthquakes travel at the same speed.,0
+229,The speed of longitudinal and transverse components of earthquakes is affected by temperature in a given medium.,0
+229,The speed of longitudinal and transverse components of earthquakes is not affected by the rigidity of the medium.,0
+229,The speed of longitudinal and transverse components of earthquakes is not influenced by the bulk modulus of the material.,0
+230,In the human digestive tract.,2
+230,In the human respiratory system.,0
+230,In the human circulatory system.,0
+230,In the human nervous system.,0
+230,In the human reproductive system.,0
+231,Sunlight,2
+231,Rain,0
+231,Air,0
+231,Temperature,0
+231,Humidity,0
+232,Elemental analysi,2
+232,Spectroscopic analysi,0
+232,Mass spectrometry,0
+232,Gas chromatography,0
+232,X-ray diffraction,0
+233,The human heart pumps blood throughout the body.,2
+233,The heart is a muscular organ that helps in digestion.,0
+233,"The heart is a part of the respiratory system, responsible for oxygen exchange.",0
+233,The heart is a gland that secretes hormones for the immune system.,0
+233,"The heart is a storage organ for energy, similar to the liver.",0
+234,"Apex predators, such as lions and wolves, are at the top of the energy pyramid.",2
+234,Herbivores are at the top of the energy pyramid.,0
+234,Plants are at the top of the energy pyramid.,0
+234,Carnivores are at the bottom of the energy pyramid.,0
+234,Producers are at the top of the energy pyramid.,0
+235,Asexual reproduction,2
+235,Cloning,0
+235,Sexual reproduction,0
+235,Fertilization,0
+235,Genetic variation,0
+236,Neutral substance,2
+236,Acidic substance,0
+236,Basic substance,0
+236,Pure water,0
+236,Chemical reaction product,0
+237,Carbon,2
+237,Hydrogen,0
+237,Oxygen,0
+237,Nitrogen,0
+237,Sulfur,0
+238,Pathogen,2
+238,Bacteria,0
+238,Viruse,0
+238,Fungi,0
+238,Parasite,0
+239,The immune system is responsible for defending your body against sickness.,2
+239,The respiratory system is responsible for defending your body against sickness.,0
+239,The digestive system is responsible for defending your body against sickness.,0
+239,The circulatory system is responsible for defending your body against sickness.,0
+239,The nervous system is responsible for defending your body against sickness.,0
+240,Gradual physiological aging through reduction in elasticity starts in the early 20s.,2
+240,The elasticity of all organs is reduced by the consumption of unhealthy foods.,0
+240,The elasticity of all organs is reduced by a lack of exercise.,0
+240,The elasticity of all organs is reduced by genetic factors.,0
+240,The elasticity of all organs is reduced by exposure to environmental pollutants.,0
+241,The placenta sustains the fetus while it grows inside the mother’s uterus.,2
+241,The umbilical cord sustains the fetus while it grows inside the mother’s uterus.,0
+241,The mother's blood circulation sustains the fetus while it grows inside the mother’s uterus.,0
+241,The mother's immune system sustains the fetus while it grows inside the mother’s uterus.,0
+241,The mother's lymphatic system sustains the fetus while it grows inside the mother’s uterus.,0
+242,Gravity,2
+242,Dark energy,0
+242,The Big Bang,0
+242,The Milky Way,0
+242,The Sun,0
+243,The kidneys are the main organs of the urinary system.,2
+243,The liver is the primary organ of the urinary system.,0
+243,The lungs are the primary organs of the urinary system.,0
+243,The heart is the main organ of the urinary system.,0
+243,The brain is the primary organ of the urinary system.,0
+244,During the night,2
+244,During the day,0
+244,During the germination phase,0
+244,During the seedling stage,0
+244,During the flowering phase,0
+245,Viruses are believed to play a role in approximately 15% of human cancer cases worldwide.,2
+245,Viruses are responsible for up to 30% of human cancer cases globally.,0
+245,Viruses are estimated to cause only 5% of human cancer cases worldwide.,0
+245,"Viruses are thought to be the primary cause of human cancer, accounting for more than 50% of cases.",0
+245,Viruses are estimated to be responsible for less than 10% of human cancer cases worldwide.,0
+246,The mosquito vector,2
+246,The distribution of malaria is determined by the presence of the mosquito vector.,0
+246,The mosquito vector is found in all areas where malaria is present.,0
+246,The mosquito vector is the primary factor in the distribution of malaria worldwide.,0
+246,The mosquito vector is the only factor in determining the location of malaria.,0
+247,The epidermis is the outermost layer of the skin.,2
+247,The dermis is the outermost layer of the skin.,0
+247,The subcutaneous layer is the outermost layer of the skin.,0
+247,The hypodermis is the outermost layer of the skin.,0
+247,The stratum corneum is the outermost layer of the skin.,0
+248,Chlorine gas is produced at the anode during the electrolysis of aqueous sodium chloride (brine).,2
+248,Chlorine gas is produced at the cathode during the electrolysis of aqueous sodium chloride (brine).,0
+248,Chlorine gas is produced at the cathode during the electrolysis of molten sodium chloride.,0
+248,Chlorine gas is produced at the anode during the electrolysis of molten sodium chloride.,0
+248,Chlorine gas is produced at the cathode during the electrolysis of aqueous sodium chloride (brine) and at the anode during the electrolysis of molten sodium chloride.,0
+249,Aurora boreali,2
+249,Moonlight,0
+249,Sunset,0
+249,Solar eclipse,0
+249,Meteor shower,0
+250,"Drumlins, eskers, and kettle lakes are features made of glacial till.",2
+250,Drumlins are formed by the erosion of bedrock by glacial meltwater.,0
+250,Eskers are formed by the deposition of sediment carried by meltwater.,0
+250,Kettle lakes are formed by the melting of ice blocks in the glacial till.,0
+250,"Drumlins, eskers, and kettle lakes are all formed by the movement of glaciers.",0
+251,Energy,2
+251,Calorie,0
+251,Carbohydrate,0
+251,Protein,0
+251,Fat,0
+252,"The pleura that surrounds the lungs consists of two layers, the visceral and parietal pleurae.",2
+252,"The pleura that surrounds the lungs consists of three layers, the mediastinum, parietal, and visceral pleurae.",0
+252,"The pleura that surrounds the lungs consists of four layers, the mediastinum, parietal, visceral, and none of the above.",0
+252,"The pleura that surrounds the lungs consists of one layer, the mediastinum pleura.",0
+252,"The pleura that surrounds the lungs consists of five layers, the mediastinum, parietal, visceral, mediastinum, and parietal pleurae.",0
+253,Weight,2
+253,Ma,0
+253,Gravity,0
+253,Orbital Velocity,0
+253,Normal Force,0
+254,Force is defined as a push or pull acting on an object.,2
+254,Force is a type of energy that can be measured in units like joules.,0
+254,Force is a concept in physics that describes the interaction between objects.,0
+254,Force is a vector quantity that has both magnitude and direction.,0
+254,Force is a property of an object that can be affected by its mass and acceleration.,0
+255,Lung,2
+255,Atmosphere and the lung,0
+255,Atmosphere and the heart,0
+255,Atmosphere and the stomach,0
+255,Atmosphere and the intestine,0
+256,Oxytocin,2
+256,Prolactin,0
+256,Prolactin-releasing hormone,0
+256,Prolactin-inhibiting hormone,0
+256,Prolactin-inhibiting hormone,0
+257,Aerobic activitie,2
+257,Anaerobic activitie,0
+257,Strength training exercise,0
+257,Weightlifting exercise,0
+257,High-intensity interval training,0
+258,Heterotroph,2
+258,Autotroph,0
+258,Producer,0
+258,Decomposer,0
+258,Herbivore,0
+259,Chemical sedimentary rock,2
+259,Metamorphic rock,0
+259,Igneous rock,0
+259,Sedimentary rock,0
+259,Organic sedimentary rock,0
+260,Carbon is the most important element to life.,2
+260,Oxygen is the most important element to life.,0
+260,Hydrogen is the most important element to life.,0
+260,Nitrogen is the most important element to life.,0
+260,Phosphorus is the most important element to life.,0
+261,Chemical sedimentary rock,2
+261,Organic sedimentary rock,0
+261,Clastic sedimentary rock,0
+261,Metamorphic rock,0
+261,Igneous rock,0
+262,Saturated,2
+262,Unsaturated,0
+262,Supersaturated,0
+262,Supersaturated,0
+262,Supersaturated,0
+263,Venus has an extremely high surface temperature.,2
+263,Venus has a moderate surface temperature.,0
+263,Venus has a cool surface temperature.,0
+263,Venus has a mild surface temperature.,0
+263,Venus has a temperate surface temperature.,0
+264,Nutrient absorption and water uptake,2
+264,Photosynthesis and energy production,0
+264,Defense against pathogens and pest,0
+264,Seed dispersal and pollination,0
+264,Carbon dioxide fixation and oxygen release,0
+265,Smoking is the major cause of chronic respiratory disease as well as cardiovascular disease and cancer.,2
+265,Excessive alcohol consumption is the leading cause of chronic respiratory disease.,0
+265,Poor diet and lack of exercise are the primary causes of chronic respiratory disease.,0
+265,Air pollution is the main cause of chronic respiratory disease.,0
+265,Genetic factors are the primary cause of chronic respiratory disease.,0
+266,Electromagnet,2
+266,Magnetic levitation device,0
+266,Permanent magnet,0
+266,Electrostatic lifting device,0
+266,Electrostatic lifting device,0
+267,Island,2
+267,Underwater mountain,0
+267,Submerged volcanoe,0
+267,Oceanic plateau,0
+267,Submarine island,0
+268,The mass spectrometer measures the percent abundance of different isotopes in a given sample.,2
+268,The mass spectrometer measures the percent abundance of different elements in a given sample.,0
+268,The mass spectrometer measures the percent abundance of different molecules in a given sample.,0
+268,The mass spectrometer measures the percent abundance of different atoms in a given sample.,0
+268,The mass spectrometer measures the percent abundance of different compounds in a given sample.,0
+269,Anions form when an atom gains electrons.,2
+269,Cations form when an atom loses electrons.,0
+269,Atoms remain neutral when they gain or lose electrons.,0
+269,Ions are formed when atoms gain or lose electrons.,0
+269,Elements become noble gases when they gain or lose electrons.,0
+270,A largemouth bass is an example of a cold-blooded animal that conforms to the temperature of the lake it inhabits.,2
+270,A largemouth bass is an example of a warm-blooded animal that conforms to the temperature of the lake it inhabits.,0
+270,A largemouth bass is an example of a cold-blooded animal that conforms to the depth of the lake it inhabits.,0
+270,A largemouth bass is an example of a warm-blooded animal that conforms to the depth of the lake it inhabits.,0
+270,A largemouth bass is an example of a cold-blooded animal that conforms to the pH level of the lake it inhabits.,0
+271,"The person may become dehydrated, with symptoms such as dry mouth, headache, and dizziness.",2
+271,The person will immediately feel thirsty and need to drink more water.,0
+271,"The person will experience no negative effects, as their body will naturally regulate water levels.",0
+271,"The person will become more tired and less energetic, but not necessarily dehydrated.",0
+271,The person will develop a fever and require medical attention.,0
+272,"A, T, G, and C pairs are associated with DNA, which is important in genetics.",2
+272,"A, T, G, and C pairs are associated with RNA, which is important in genetics.",0
+272,"A, T, G, and C pairs are associated with proteins, which are important in genetics.",0
+272,"A, T, G, and C pairs are associated with amino acids, which are important in genetics.",0
+272,"A, T, G, and C pairs are associated with nucleotides, which are important in genetics.",0
+273,Excretion,2
+273,Digestion,0
+273,Respiration,0
+273,Circulation,0
+273,Nutrition,0
+274,Transcription,2
+274,Translation,0
+274,Protein synthesi,0
+274,RNA level,0
+274,Gene silencing,0
+275,Quantum number,2
+275,Chemical number,0
+275,Atomic number,0
+275,Electronic number,0
+275,Magnetic number,0
+276,Hormone,2
+276,Enzyme,0
+276,Nucleic acid,0
+276,Protein,0
+276,Carbohydrate,0
+277,Steppe,2
+277,Desert,0
+277,Grassland,0
+277,Savanna,0
+277,Tundra,0
+278,"Tuataras, lizards, and snakes are members of the subclass Sauria.",2
+278,"Tuataras, lizards, and snakes are members of the subclass Lacertilia.",0
+278,"Tuataras, lizards, and snakes are members of the subclass Serpentes.",0
+278,"Tuataras, lizards, and snakes are members of the subclass Testudines.",0
+278,"Tuataras, lizards, and snakes are members of the subclass Crocodilia.",0
+279,Sharks sense low levels of electricity to locate prey.,2
+279,Sharks sense low levels of electricity to communicate with other sharks.,0
+279,Sharks sense low levels of electricity to navigate through water.,0
+279,Sharks sense low levels of electricity to detect changes in water temperature.,0
+279,Sharks sense low levels of electricity to detect underwater earthquakes.,0
+280,The elastic force in springs is caused by their ability to stretch or compress and return to their original shape when the force is released.,2
+280,The elastic force in springs is caused by the material's resistance to change shape.,0
+280,The elastic force in springs is caused by the tension between the coils.,0
+280,The elastic force in springs is caused by the spring's ability to absorb energy.,0
+280,The elastic force in springs is caused by the spring's ability to store energy.,0
+281,The SOHO spacecraft first started to operate in 1996.,2
+281,The SOHO spacecraft began operating in 2000.,0
+281,The SOHO spacecraft was launched in 1990.,0
+281,The SOHO spacecraft has been in operation since 2005.,0
+281,The SOHO spacecraft was launched in 1980.,0
+282,Mole fraction,2
+282,Volume fraction,0
+282,Mass fraction,0
+282,Temperature,0
+282,Density,0
+283,Natural selection is the only mechanism that consistently causes adaptive evolution.,2
+283,Mutations are the primary cause of adaptive evolution.,0
+283,Genetic drift is the primary cause of adaptive evolution.,0
+283,Artificial selection is the only mechanism that consistently causes adaptive evolution.,0
+283,Evolution is solely driven by chance events.,0
+284,Citric acid in orange juice makes it taste sour.,2
+284,The sugar content in orange juice makes it taste sour.,0
+284,The presence of vitamin C in orange juice makes it taste sour.,0
+284,The pH level of orange juice makes it taste sour.,0
+284,The temperature of orange juice makes it taste sour.,0
+285,Muscarinic receptors can cause both depolarization or hyperpolarization depending on the subtype.,2
+285,Muscarinic receptors can cause only depolarization.,0
+285,Muscarinic receptors can cause only hyperpolarization.,0
+285,Muscarinic receptors can cause depolarization or hyperpolarization depending on the ligand.,0
+285,Muscarinic receptors can cause depolarization or hyperpolarization depending on the concentration of the ligand.,0
+286,Temperature,2
+286,Humidity,0
+286,Pressure,0
+286,Density,0
+286,pH level,0
+287,Heterotroph,2
+287,Autotroph,0
+287,Producer,0
+287,Decomposer,0
+287,Herbivore,0
+288,Calcite,2
+288,Dolomite,0
+288,Marble,0
+288,Limestone,0
+288,Talc,0
+289,Kinetic energy,2
+289,Potential energy,0
+289,Thermal energy,0
+289,Electrical energy,0
+289,Chemical energy,0
+290,Freezing,2
+290,Melting,0
+290,Boiling,0
+290,Evaporation,0
+290,Condensation,0
+291,"In covalent bonds, electrons are shared equally between the bonded atoms.",2
+291,"In covalent bonds, electrons are shared unequally between the bonded atoms.",0
+291,"In covalent bonds, electrons are shared only by one of the bonded atoms.",0
+291,"In covalent bonds, electrons are shared only by the more electronegative atom.",0
+291,"In covalent bonds, electrons are shared only by the less electronegative atom.",0
+292,Thunderstorms are more likely where ground temperatures are extremely high.,2
+292,Thunderstorms are more likely where ground temperatures are extremely low.,0
+292,Thunderstorms are more likely where ground temperatures are moderate.,0
+292,Thunderstorms are less likely where ground temperatures are extremely high.,0
+292,Thunderstorms are less likely where ground temperatures are extremely low.,0
+293,Dispersion,2
+293,Refraction,0
+293,Reflection,0
+293,Diffraction,0
+293,Scattering,0
+294,Technology,2
+294,Innovation,0
+294,Engineering,0
+294,Research,0
+294,Development,0
+295,Sexually reproducing organisms alternate between haploid and diploid stages.,2
+295,Sexually reproducing organisms alternate between haploid and haploid stages.,0
+295,Sexually reproducing organisms alternate between diploid and haploid stages.,0
+295,Sexually reproducing organisms alternate between haploid and diploid stages.,0
+295,Sexually reproducing organisms alternate between haploid and diploid stages.,0
+296,Bogs develop in depressions where water flow is low or nonexistent.,2
+296,Freshwater marshes develop in depressions where water flow is low or nonexistent.,0
+296,Swamps develop in depressions where water flow is low or nonexistent.,0
+296,Bogs develop in areas with high water flow.,0
+296,Bogs develop in areas with poor percolation.,0
+297,Channels open and close during membrane depolarization.,2
+297,Channels only open during membrane depolarization.,0
+297,Channels only close during membrane depolarization.,0
+297,Channels remain unchanged during membrane depolarization.,0
+297,Channels become less responsive during membrane depolarization.,0
+298,The most important monsoon in the world occurs in southern Asia.,2
+298,The most important monsoon in the world occurs in northern Asia.,0
+298,The most important monsoon in the world occurs in central Asia.,0
+298,The most important monsoon in the world occurs in eastern Asia.,0
+298,The most important monsoon in the world occurs in western Asia.,0
+299,Electric current,2
+299,Magnetic field,0
+299,Amount of current flowing through the coil,0
+299,Strength of the electromagnet,0
+299,Temperature of the electromagnet,0
+300,Lead,2
+300,Gold,0
+300,Platinum,0
+300,Titanium,0
+300,Aluminum,0
+301,Digestion,2
+301,Photosynthesi,0
+301,Respiration,0
+301,Transpiration,0
+301,Translation,0
+302,Amino acid,2
+302,Nucleotide,0
+302,Carbohydrate,0
+302,Lipid,0
+302,RNA molecule,0
+303,Flagella,2
+303,Spicule,0
+303,Cilia,0
+303,Microvilli,0
+303,Microfilament,0
+304,Protein,2
+304,Carbohydrate,0
+304,Lipid,0
+304,Nucleic acid,0
+304,Vitamin,0
+305,The minerals in a rock change during metamorphism.,2
+305,Metamorphism causes rocks to melt completely.,0
+305,Metamorphism causes rocks to become igneous rocks.,0
+305,Metamorphism causes rocks to change their chemical composition.,0
+305,Metamorphism causes rocks to become sedimentary rocks.,0
+306,Energy,2
+306,Water,0
+306,Air,0
+306,Light,0
+306,Nutrient,0
+307,Population density,2
+307,Species diversity,0
+307,Population growth rate,0
+307,Population distribution pattern,0
+307,Population size,0
+308,ediment,2
+308,water,0
+308,air,0
+308,ice,0
+308,lava,0
+309,Neutrophil,2
+309,Eosinophil,0
+309,Red blood cell,0
+309,White blood cell,0
+309,Platelet,0
+310,Bird migration,2
+310,Birds flying north in the winter,0
+310,Birds flying south in the summer,0
+310,Birds flying south in the fall,0
+310,Birds flying north in the spring,0
+311,"Every star emits radiation of many wavelengths, including visible light, which humans cannot see.",2
+311,Every star emits only visible light that humans cannot see.,0
+311,Every star emits only ultraviolet radiation that humans cannot see.,0
+311,Every star emits only infrared radiation that humans cannot see.,0
+311,Every star emits only radio waves that humans cannot see.,0
+312,Theropod dinosaur,2
+312,Reptile,0
+312,Mammal,0
+312,Fish,0
+312,Amphibian,0
+313,Biodiversity,2
+313,Climate change,0
+313,Volcanic eruption,0
+313,Invasive specie,0
+313,Pollution,0
+314,100°C,2
+314,1000°C,0
+314,0°C,0
+314,200°C,0
+314,150°C,0
+315,The nervous system,2
+315,The circulatory system,0
+315,The respiratory system,0
+315,The digestive system,0
+315,The endocrine system,0
+316,The adrenal cortex,2
+316,The adrenal medulla,0
+316,The hypothalamu,0
+316,The kidney,0
+316,The pituitary gland,0
+317,Primates have five digits on each extremity.,2
+317,Primates have four digits on each extremity.,0
+317,Primates have three digits on each extremity.,0
+317,Primates have two digits on each extremity.,0
+317,Primates have six digits on each extremity.,0
+318,Transpiration,2
+318,Evaporation,0
+318,Photosynthesi,0
+318,Respiration,0
+318,Translocation,0
+319,Type 2 diabete,2
+319,Hypothyroidism,0
+319,Cushing's syndrome,0
+319,Pituitary tumor,0
+319,Hyperthyroidism,0
+320,Competition,2
+320,Cooperation,0
+320,Symbiosi,0
+320,Mutualism,0
+320,Commensalism,0
+321,Stock solution,2
+321,Concentrated solution,0
+321,Diluted solution,0
+321,Low concentrated solution,0
+321,Highly concentrated solution,0
+322,The color of visible light is determined by its wavelength.,2
+322,The color of visible light is determined by its intensity.,0
+322,The color of visible light is determined by its frequency.,0
+322,The color of visible light is determined by its temperature.,0
+322,The color of visible light is determined by its brightness.,0
+323,Wave refraction concentrates wave energy or disperses it.,2
+323,"Wave energy is dispersed in quiet water areas, such as bays.",0
+323,Wave energy is concentrated on wave-cut cliffs.,0
+323,Wave energy is dispersed in areas with strong currents.,0
+323,Wave energy is dispersed in areas with large waves.,0
+324,The space around the magnet is called the magnetic field.,2
+324,The space around the magnet is called the magnetic force.,0
+324,The space around the magnet is called the magnetic force field.,0
+324,The space around the magnet is called the magnetic force zone.,0
+324,The space around the magnet is called the magnetic force area.,0
+325,The stratosphere is the layer above the troposphere.,2
+325,The mesosphere is the layer above the troposphere.,0
+325,The thermosphere is the layer above the troposphere.,0
+325,The ionosphere is the layer above the troposphere.,0
+325,The exosphere is the layer above the troposphere.,0
+326,Weight,2
+326,Gravitational Constant,0
+326,Gravitational Pull,0
+326,Gravitational Force,0
+326,Gravitational Attraction,0
+327,Constructive force,2
+327,Destructive force,0
+327,Both destructive and constructive force,0
+327,Only destructive force,0
+327,Only constructive force,0
+328,Rolling friction,2
+328,Static friction,0
+328,Sliding friction,0
+328,Frictionless friction,0
+328,Frictionless rolling,0
+329,A solution is a homogeneous mixture.,2
+329,A solution is a heterogeneous mixture.,0
+329,"A solution is a mixture of two or more substances, but it's not just any mixture.",0
+329,"A solution is a mixture of two or more substances, but it's not a homogeneous mixture.",0
+329,"A solution is a mixture of two or more substances, but it's not a mixture at all.",0
+330,The most superior bone in the posterior half of the foot is the talus.,2
+330,The talus is the most inferior bone in the posterior half of the foot.,0
+330,The talus is the largest bone in the posterior half of the foot.,0
+330,The talus is the only bone in the posterior half of the foot.,0
+330,The talus is the most medial bone in the posterior half of the foot.,0
+331,The transfer of energy is much more efficient.,2
+331,The transfer of energy is more efficient at lower frequencies.,0
+331,The transfer of energy is more efficient at higher frequencies.,0
+331,The transfer of energy is more efficient when the wave frequency is an odd multiple of the natural frequency.,0
+331,The transfer of energy is more efficient when the wave frequency is an even multiple of the natural frequency.,0
+332,Deoxyribose,2
+332,Ribose,0
+332,Adenine,0
+332,Guanine,0
+332,Cytosine,0
+333,Laser light,2
+333,Radio wave,0
+333,Microwave,0
+333,Infrared light,0
+333,Ultrasound wave,0
+334,Lymphocytes are the key cells in the immune response.,2
+334,Neutrophils are the primary cells involved in the immune response.,0
+334,Monocytes are the main cells responsible for the immune response.,0
+334,Dendritic cells are the primary cells that initiate the immune response.,0
+334,Macrophages are the primary cells that activate the immune response.,0
+335,Bird beaks are generally adapted for the food they eat.,2
+335,Bird beaks are adapted for catching insects.,0
+335,Bird beaks are adapted for cracking nuts.,0
+335,Bird beaks are adapted for drinking water.,0
+335,Bird beaks are adapted for eating fruits.,0
+336,Season,2
+336,Temperature,0
+336,Light exposure,0
+336,Soil moisture,0
+336,Nutrient availability,0
+337,Velocity,2
+337,Speed,0
+337,Acceleration,0
+337,Direction,0
+337,Speed in a specific direction,0
+338,Osteoarthritis occurs when the cartilage at the ends of the bones breaks down.,2
+338,The breakdown of cartilage leads to the development of rheumatoid arthritis.,0
+338,The breakdown of cartilage causes the bones to fuse together.,0
+338,The breakdown of cartilage results in the formation of bone spurs.,0
+338,The breakdown of cartilage leads to the development of osteoporosis.,0
+339,Antibiotic,2
+339,Over-the-counter medication,0
+339,Home remedie,0
+339,Herbal treatment,0
+339,Surgery,0
+340,The sea slug,2
+340,The dolphin,0
+340,The jellyfish,0
+340,The crab,0
+340,The octopu,0
+341,The root system is usually anchored by one main root developed from the embryonic radicle.,2
+341,The root system is usually anchored by one main root developed from the cotyledons.,0
+341,The root system is usually anchored by one main root developed from the stem.,0
+341,The root system is usually anchored by one main root developed from the leaves.,0
+341,The root system is usually anchored by one main root developed from the flower.,0
+342,Translucent matter transmits and scatters light.,2
+342,Translucent matter transmits and absorbs light.,0
+342,Translucent matter transmits and reflects light.,0
+342,Translucent matter transmits and bends light.,0
+342,Translucent matter transmits and refracts light.,0
+343,Peptide bonds between amino acids are formed during the process of translation.,2
+343,Peptide bonds are formed between two amino acids in a condensation reaction.,0
+343,Peptide bonds are formed during the process of transcription.,0
+343,Peptide bonds are formed between two amino acids in a dehydration reaction.,0
+343,Peptide bonds are formed during the process of protein synthesis.,0
+344,Covalent bond energies can be used to estimate the enthalpy changes of chemical reactions.,2
+344,Covalent bond energies can be used to estimate the enthalpy changes of physical reactions.,0
+344,Covalent bond energies can be used to estimate the enthalpy changes of biological reactions.,0
+344,Covalent bond energies can be used to estimate the enthalpy changes of nuclear reactions.,0
+344,Covalent bond energies can be used to estimate the enthalpy changes of environmental reactions.,0
+345,allele,2
+345,gene,0
+345,trait,0
+345,disease,0
+345,phenotype,0
+346,Monotremes have a cloaca instead of a uterus and vagina.,2
+346,"Monotremes have a uterus and vagina, but they use a different reproductive system.",0
+346,"Monotremes have a uterus and vagina, but they lay eggs through the cloaca.",0
+346,"Monotremes have a uterus and vagina, but they use a modified reproductive system.",0
+346,"Monotremes have a uterus and vagina, but they lay eggs through the cloaca, which is a modified reproductive system.",0
+347,Bioluminescence,2
+347,Chemiluminescence,0
+347,Photoluminescence,0
+347,Fluorescence,0
+347,Phosphorescence,0
+348,Cations have positive charges.,2
+348,Cations have negative charges.,0
+348,Anions have positive charges.,0
+348,Anions have negative charges.,0
+348,Cations have neutral charges.,0
+349,Gnomonic map projection,2
+349,Mercator map projection,0
+349,Lambert conformal map projection,0
+349,Azimuthal equidistant map projection,0
+349,Stereographic map projection,0
+350,Anthropology,2
+350,Geology,0
+350,Astronomy,0
+350,Botany,0
+350,Chemistry,0
+351,Loess deposits form vertical cliffs.,2
+351,Loess deposits form horizontal layers.,0
+351,Loess deposits form only in desert environments.,0
+351,Loess deposits form only in coastal regions.,0
+351,Loess deposits form only in mountainous areas.,0
+352,Willow trees produce salicylic acid to kill bacteria.,2
+352,Willow trees produce antibiotics to kill bacteria.,0
+352,Willow trees produce hormones to kill bacteria.,0
+352,Willow trees produce toxins to kill bacteria.,0
+352,Willow trees produce chemicals to warn other plants of threats.,0
+353,"The earliest types of plants lacked flowers, leaves, roots, and stems.",2
+353,"The earliest plants were algae that lacked flowers, leaves, roots, and stems.",0
+353,"The earliest plants were mosses that lacked flowers, leaves, roots, and stems.",0
+353,"The earliest plants were ferns that lacked flowers, leaves, roots, and stems.",0
+353,"The earliest plants were lichens that lacked flowers, leaves, roots, and stems.",0
+354,ribosome,2
+354,nucleu,0
+354,mitochondria,0
+354,chloroplast,0
+354,lysosome,0
+355,The Sun,2
+355,The Moon,0
+355,Jupiter,0
+355,Mar,0
+355,Venu,0
+356,The electromagnetic spectrum,2
+356,The visible light spectrum,0
+356,The ultraviolet light spectrum,0
+356,The infrared light spectrum,0
+356,The radio wave spectrum,0
+357,The kidneys and adrenal cortex work together to regulate blood pressure through sodium ion and water retention and loss.,2
+357,The kidneys and lungs regulate blood pressure through sodium ion and water retention and loss.,0
+357,The kidneys and liver regulate blood pressure through sodium ion and water retention and loss.,0
+357,"The kidneys and lungs regulate blood pressure through sodium ion and water retention and loss, while the adrenal cortex is not involved in this process.",0
+357,"The kidneys and adrenal cortex regulate blood pressure through sodium ion and water retention and loss, while the lungs are not involved in this process.",0
+358,Enzyme,2
+358,Hormone,0
+358,Nucleic acid,0
+358,Lipid,0
+358,Carbohydrate,0
+359,Sexual reproduction,2
+359,Asexual reproduction,0
+359,Sexual reproduction,0
+359,Asexual reproduction,0
+359,Sexual reproduction,0
+360,Climate,2
+360,Weather pattern,0
+360,Temperature fluctuation,0
+360,Seasonal change,0
+360,Meteorological trend,0
+361,Electric field,2
+361,Magnetic field,0
+361,Gravitational field,0
+361,Chemical field,0
+361,Mechanical field,0
+362,Annelid,2
+362,Segmented worm,0
+362,Polychaete worm,0
+362,Earthworm,0
+362,Leeche,0
+363,Water,2
+363,Carbon dioxide,0
+363,Nitrogen,0
+363,Sulfur dioxide,0
+363,Methane,0
+364,The underwater spider uses a shiny bubble filled with air to breathe and stay alive.,2
+364,The underwater spider uses a specialized respiratory system to extract oxygen from water.,0
+364,The underwater spider relies on its silk to create a breathable environment.,0
+364,The underwater spider uses its legs to create a bubble of air to breathe.,0
+364,The underwater spider uses its exoskeleton to store air for breathing.,0
+365,In a vacuum,2
+365,In water,0
+365,In gla,0
+365,In air,0
+365,In a medium with a constant speed of light,0
+366,The sporophyte phase is the longest phase in the life of a conifer.,2
+366,The sporophyte phase is the longest phase in the life of a fern.,0
+366,The sporophyte phase is the longest phase in the life of a moss.,0
+366,The sporophyte phase is the longest phase in the life of a lichen.,0
+366,The sporophyte phase is the longest phase in the life of a mushroom.,0
+367,Dew point,2
+367,Freezing point,0
+367,Boiling point,0
+367,Melting point,0
+367,Humidity point,0
+368,The kidneys need constant pressure to filter the blood.,2
+368,The heart needs constant pressure to filter the blood.,0
+368,The liver needs constant pressure to filter the blood.,0
+368,The lungs need constant pressure to filter the blood.,0
+368,The brain needs constant pressure to filter the blood.,0
+369,Its frequency remains the same as the frequency of the light source.,2
+369,Its wavelength and speed change when light is refracted.,0
+369,Light loses its original color when refracted under water.,0
+369,The color of light changes when it is refracted under water.,0
+369,The color of light is affected by the medium it travels through.,0
+370,Temperature is a measure of the motion (kinetic energy) of molecules.,2
+370,Temperature is a measure of the motion (kinetic energy) of atoms.,0
+370,Temperature is a measure of the motion (kinetic energy) of particles.,0
+370,Temperature is a measure of the motion (kinetic energy) of electrons.,0
+370,Temperature is a measure of the motion (kinetic energy) of protons.,0
+371,The nasal cavity is divided into halves by the nasal septum.,2
+371,The nasal cavity is divided into halves by the ethmoid bone.,0
+371,The nasal cavity is divided into halves by the vomer bone.,0
+371,The nasal cavity is divided into halves by the inferior nasal concha.,0
+371,The nasal cavity is divided into halves by the middle nasal concha.,0
+372,Energy,2
+372,Energy,0
+372,Energy,0
+372,Energy,0
+372,Energy,0
+373,The digestive system,2
+373,The respiratory system,0
+373,The circulatory system,0
+373,The nervous system,0
+373,The excretory system,0
+374,Aquatic biomes are associated with water.,2
+374,Aquatic biomes are associated with deserts.,0
+374,Aquatic biomes are associated with tropical rainforests.,0
+374,Aquatic biomes are associated with savannas.,0
+374,Aquatic biomes are associated with temperate grasslands.,0
+375,Adolescence,2
+375,Infancy,0
+375,Childhood,0
+375,Adulthood,0
+375,Early childhood,0
+376,At sea level,2
+376,At the top of Mount Everest,0
+376,At the bottom of the ocean,0
+376,In the middle of a desert,0
+376,In a dense forest,0
+377,Salivary gland,2
+377,Taste bud,0
+377,Mucous gland,0
+377,Labial gland,0
+377,Buccal gland,0
+378,Point mutation,2
+378,Chromosomal alteration,0
+378,Nonsense mutation,0
+378,Missense mutation,0
+378,Silent mutation,0
+379,olubility,2
+379,density,0
+379,pressure,0
+379,volume,0
+379,viscosity,0
+380,Stratigraphy,2
+380,Paleontology,0
+380,Geochemistry,0
+380,Geophysic,0
+380,Sedimentology,0
+381,Thermodynamic,2
+381,Chemistry,0
+381,Physic,0
+381,Biology,0
+381,Engineering,0
+382,Incomplete dominance and epistasis are both terms that define genetic interactions between alleles.,2
+382,Incomplete dominance and epistasis are both terms that define genetic interactions between genes.,0
+382,Incomplete dominance and epistasis are both terms that define genetic interactions between traits.,0
+382,Incomplete dominance and epistasis are both terms that define genetic interactions between alleles and genes.,0
+382,Incomplete dominance and epistasis are both terms that define genetic interactions between alleles and traits.,0
+383,Boiling,2
+383,Evaporation,0
+383,Condensation,0
+383,Freezing,0
+383,Melting,0
+384,Chromosome,2
+384,Gene,0
+384,Autosome,0
+384,Sex chromosome,0
+384,X chromosome,0
+385,Excitement,2
+385,Desire,0
+385,Plateau,0
+385,Orgasm,0
+385,Resolution,0
+386,Vitamins are organic compounds that the body needs in small amounts to function properly; humans need 13 different ones.,2
+386,Vitamins are inorganic compounds that the body needs in large amounts to function properly; humans need 13 different ones.,0
+386,Vitamins are synthetic compounds that the body needs in small amounts to function properly; humans need 13 different ones.,0
+386,Vitamins are essential nutrients that the body needs in large amounts to function properly; humans need 13 different ones.,0
+386,Vitamins are non-essential nutrients that the body needs in small amounts to function properly; humans need 13 different ones.,0
+387,oxygen,2
+387,nitrogen,0
+387,ammonia,0
+387,water,0
+387,carbon monoxide,0
+388,Stars are made up of very lightweight hydrogen gas.,2
+388,Stars are composed of heavier elements like oxygen and carbon.,0
+388,Stars are primarily composed of helium gas.,0
+388,Stars are made up of a mixture of hydrogen and helium gas.,0
+388,Stars are made up of a combination of hydrogen and oxygen gas.,0
+389,An element is the simplest form of matter that has a unique set of properties.,2
+389,A compound is the simplest form of matter that has a unique set of properties.,0
+389,A molecule is the simplest form of matter that has a unique set of properties.,0
+389,A mixture is the simplest form of matter that has a unique set of properties.,0
+389,A solution is the simplest form of matter that has a unique set of properties.,0
+390,Echinoderms lack a centralized nervous system.,2
+390,Echinoderms have a well-developed respiratory system.,0
+390,Echinoderms have a closed circulatory system.,0
+390,Echinoderms have a simple digestive system.,0
+390,Echinoderms have a heart to pump blood.,0
+391,Chemical bond,2
+391,Electrical repulsion between atom,0
+391,Forces within the human body,0
+391,Electrical attraction between atom,0
+391,Physical merging of atom,0
+392,Stamen,2
+392,Petal,0
+392,Sepal,0
+392,Pistil,0
+392,Carpel,0
+393,"No, bacteria do not sexually reproduce.",2
+393,"Yes, bacteria can reproduce sexually through binary fission.",0
+393,Bacteria can only reproduce through binary fission.,0
+393,Bacteria can reproduce sexually through conjugation.,0
+393,Bacteria can reproduce sexually through transformation.,0
+394,Climate,2
+394,Topography,0
+394,Vegetation,0
+394,Parent material,0
+394,Human activitie,0
+395,Pentanoic acid is a carboxylic acid.,2
+395,Pentanoic acid is a sulfuric acid.,0
+395,Pentanoic acid is a hydrochloric acid.,0
+395,Pentanoic acid is an amino acid.,0
+395,Pentanoic acid is a phosphoric acid.,0
+396,Homeostasi,2
+396,Thermoregulation,0
+396,Sweating,0
+396,Body temperature control,0
+396,Heat dissipation,0
+397,Non-sister chromatids of homologous chromosomes.,2
+397,Crossover occurs between non-sister chromatids of sister chromatids.,0
+397,Crossover occurs between non-sister chromatids of non-homologous chromosomes.,0
+397,Crossover occurs between non-sister chromatids of homologous chromosomes in meiosis.,0
+397,Crossover occurs between non-sister chromatids of homologous chromosomes in mitosis.,0
+398,geyser,2
+398,volcano,0
+398,fumarole,0
+398,mud pot,0
+398,mud volcano,0
+399,Non-steroid hormones are made of amino acids.,2
+399,Non-steroid hormones are made of fatty acids.,0
+399,Non-steroid hormones are made of proteins.,0
+399,Non-steroid hormones are made of carbohydrates.,0
+399,Non-steroid hormones are made of lipids.,0
