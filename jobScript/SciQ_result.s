@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-superPath='/reslut/qwen/data'
+superPath='/reslut/SciQ_result/data'
 
 cd /COMP4222-Course-Project/data_preprocess
 
@@ -14,7 +14,7 @@ python document_generation.py --use-cuda --output_dir $superPath --path "$superP
 
 ################
 
-superPath='/reslut/qwen_result'
+superPath='/reslut/SciQ_result'
 BERTpath="google-bert/bert-base-uncased"
 
 cd COMP4222-Course-Project/pipeline/graph
