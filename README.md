@@ -42,4 +42,5 @@ We performed experiments on the pipeline of the paper ["Leveraging Graph Structu
 
 [1] N. Nonkes, S. Agaronian, E. Kanoulas, and R. Petcu, "Leveraging Graph Structures to Detect Hallucinations in Large Language Models," in Proceedings of TextGraphs-17: Graph-based Methods for Natural Language Processing, Bangkok, Thailand, Aug. 2024, pp. https://aclanthology.org/2024.textgraphs-1.7
 
+[2] Johannes Welbl, Nelson F. Liu, Matt Gardner, SciQ: "Crowdsourcing Multiple Choice Science Questions", proceedings of the Workshop on Noisy User-generated Text (W-NUT) 2017. https://arxiv.org/abs/1707.06209
 
