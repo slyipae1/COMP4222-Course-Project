@@ -11,12 +11,13 @@
     + for each embedding model, used thresholds: 0.60, 0.65, 0.70, 0.75, 0.80, 0.85, 0.90, 0.95
     + result: result/threshold&embed.tar.gz
 
-+ LAM Sum Ying:
++ LAM Sum Ying: conduct enperiments on the LLM for generating hallucination data
     + replace the original LLM (LLama2) with Qwen2.5-14B to generate data with the original dataset: data_preprocess/document_generation_qwen.py
     + result: result/qwen_result
 
-+ Peng Muzi:
++ Peng Muzi: conduct enperiments on the dataset for generating hallucination data
     + replace the original dataset with 1200 sampled from a new dataset, SciQ: data_preprocess/reformat_SciQ.py
+    + result: result/SciQ_result
 
 ## Reproduction Guidance
 + threshold&embed
