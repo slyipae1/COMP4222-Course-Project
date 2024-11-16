@@ -46,24 +46,35 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(formatter_class=argparse.ArgumentDefaultsHelpFormatter)
     parser.add_argument("--use-cuda", action="store_true", default=False,
                         help="Use GPU acceleration if available")
-    parser.add_argument("--path", type=str, default="data/sampled_data.json",
+    parser.add_argument("--path", type=str, default="data/testing.json",
                         help="JSON file containing the data")
-    parser.add_argument("--output_dir", type=str, default="data/generated/")
+    parser.add_argument("--output_dir", type=str, default="data/llama_gen/")
     parser.add_argument("--use-context", action="store_true", default=False,
                         help="Use context in prompts")
     parser.add_argument("--seed", type=int, default=42,
                         help="Seed for reproducibility")
+    parser.add_argument("--llm", type=str, default="llama2")
+    parser.add_argument("--model_path", type=str, default="pretrained/llama2-13b")
     args = parser.parse_args()
 
     # Use cuda if cuda is available
     device = torch.device("cuda") if args.use_cuda and torch.cuda.is_available() else torch.device("cpu")
     torch.manual_seed(args.seed)  # seed the generation
     
-    # openassistant pre-trained model and tokenizer
-    tokenizer = AutoTokenizer.from_pretrained("/project/smartlab2021/shebd/FYP2024/slyipae/MODELs/llama2-13b-orca-8k-3319")
-    model = AutoModelForCausalLM.from_pretrained("/project/smartlab2021/shebd/FYP2024/slyipae/MODELs/llama2-13b-orca-8k-3319", 
-                                                 torch_dtype=torch.float16, low_cpu_mem_usage=True)
+    llm = args.llm
+    pretrained_path = ""
+    model_args = {}
+    pretrained_path = args.model_path
+    if llm == "llama2":
+        model_args = {'torch_dtype': torch.float16, 'low_cpu_mem_usage': True}
+    elif llm == "qwen2.5":
+        model_args = {'torch_dtype': "auto", 'device_map': "auto"}
+    model = AutoModelForCausalLM.from_pretrained(pretrained_path, **model_args)
+    tokenizer = AutoTokenizer.from_pretrained(pretrained_path)
     model.to(device)
+
+    if device == torch.device('cpu'):
+        model.float()
 
     # Keep track of the generated content
     generated_outputs = []
@@ -102,6 +113,7 @@ if __name__ == "__main__":
              
     output_filename = "with_context.csv" if args.use_context else "no_context.csv"
     output_path = args.output_dir + output_filename
+    # output_path = os.path.join(args.output_dir, output_filename)
 
     try:
         # Splitting each string based on the first comma only
