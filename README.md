@@ -5,7 +5,7 @@
 ## Overview
 We performed experiments on the pipeline of the paper ["Leveraging Graph Structures to Detect Hallucinations in Large Language Models"](https://github.com/noanonkes/Hallucination-Detection-in-LLMs) regarding similarity threshold, embedding model, LLM, and dataset.
 
-## Group Members & Task Distibution:
+## Group Members & Task Distribution:
 + YIP Sau Lai: similarity threshold & embedding model
     + Replaced BERT with DeBERTa: pipeline/graph/make_graph_DeBERTa.py
     + For each embedding model, used thresholds: 0.60, 0.65, 0.70, 0.75, 0.80, 0.85, 0.90, 0.95
@@ -37,10 +37,12 @@ We performed experiments on the pipeline of the paper ["Leveraging Graph Structu
     + Create "weights" and "images" folder under result/SciQ_result
     + Run script: jobScript/SciQ_result.s (second part)
 
+## Details of the Pipeline
+
 
 ## References
 
 [1] N. Nonkes, S. Agaronian, E. Kanoulas, and R. Petcu, "Leveraging Graph Structures to Detect Hallucinations in Large Language Models," in Proceedings of TextGraphs-17: Graph-based Methods for Natural Language Processing, Bangkok, Thailand, Aug. 2024, pp. https://aclanthology.org/2024.textgraphs-1.7
 
-[2] Johannes Welbl, Nelson F. Liu, Matt Gardner, SciQ: "Crowdsourcing Multiple Choice Science Questions", proceedings of the Workshop on Noisy User-generated Text (W-NUT) 2017. https://arxiv.org/abs/1707.06209
+[2] Johannes Welbl, Nelson F. Liu, Matt Gardner, SciQ: "Crowdsourcing Multiple Choice Science Questions", Proceedings of the Workshop on Noisy User-generated Text (W-NUT) 2017. https://arxiv.org/abs/1707.06209
 
