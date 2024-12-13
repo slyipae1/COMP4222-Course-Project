@@ -38,7 +38,7 @@ We performed experiments on the pipeline of the paper ["Leveraging Graph Structu
     + Run script: jobScript/SciQ_result.s (second part)
 
 ## Details of the Pipeline & Result
-    + Please see file "Presentation.pdf"
++ Please see the file "Presentation.pdf"
 
 
 ## References
