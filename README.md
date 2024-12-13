@@ -37,9 +37,9 @@ We performed experiments on the pipeline of the paper ["Leveraging Graph Structu
     + Create "weights" and "images" folder under result/SciQ_result
     + Run script: jobScript/SciQ_result.s (second part)
 
-## Details of the Pipeline & Result
-+ Please see the file "Presentation.pdf"
-
+## Details of the Pipeline & Results
++ Please see the file "Presentation.pdf" for details
++ ![Pipeline](pipeline.png)
 
 ## References
 
